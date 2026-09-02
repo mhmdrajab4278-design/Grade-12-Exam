@@ -24,6 +24,7 @@ body{
 }
 
 #cate{
+    
     display: flex;
     justify-content: space-between;
     width: 100px;
@@ -31,6 +32,7 @@ body{
 }
 
 #cards{
+    max-width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
