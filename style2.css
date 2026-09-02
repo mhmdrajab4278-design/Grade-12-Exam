@@ -1,0 +1,199 @@
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin-left: 0;
+    padding: 0;
+}
+
+#head{
+    display: flex;
+    align-items: center;
+    height: 20%;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: dodgerblue;
+    margin-bottom: 30px;
+    z-index: 10;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.passage{
+    border: 2px solid red;
+    width: min(90%, 400px);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    top: 700px;
+    border: 4px solid dodgerblue;
+    border-radius: 25px;
+}
+
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: auto;
+    border-radius: 25px;
+    border: 4px solid dodgerblue;
+    min-width: min(90%, 400px);
+    width: min(90%, 400px);
+    padding: 20px;
+}
+
+#options{
+    display: flex;
+    flex-direction: column;
+}
+
+#btm{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+#options{
+    margin-top: 10px;
+    border: 3px solid dodgerblue;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+
+#options p{
+    margin-top: 0;
+    padding: 5px;
+    
+}
+
+#options p:nth-child(1){
+    margin-top: 0;
+}
+
+#answers{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+#answers button{
+    background: dodgerblue;
+    font-size: 1em;
+    padding: 5px 15px;
+    border-radius: 15px;
+    border: 2px solid dodgerblue;
+    transition: .5s;
+    cursor: pointer;
+}
+
+#answers button:hover{
+    background-color: rgba(30, 143, 255, 0.522);
+}
+
+#answers button:active{
+    transform: scale(0.9);
+}
+
+#next{
+    background-color: dodgerblue;
+    border: none;
+    font-size: 1em;
+    border-radius: 15px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#side{
+    position: fixed;
+    background: white;
+    width: 0;
+    height: 100%;
+    margin: 0;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    transition: .5s;
+    z-index: 11;
+}
+
+#side.active {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: min(40%, 300px);
+    border: 4px solid dodgerblue;
+    padding: 3px;
+}
+
+#sidebtn{
+    margin: 20px;
+    background-color: white;
+    border-radius: 15px;
+    border: 3px solid dodgerblue;
+    font-size: 1em;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#hideside{
+    background-color: dodgerblue;
+    font-size: 1.5em;
+    padding: 0 5px;
+    border-radius: 15px;
+    border: none;
+    margin: 10px;
+}
+
+#all{
+    width: 40%;
+    margin: 10px;
+}
+
+#all *{
+    margin-top: 10px;
+}
+
+#select{
+    border-radius: 15px;
+    padding: 3px;
+    background-color: dodgerblue;
+    border: 2px solid dodgerblue;
+}
+
+#select #blue{
+    background-color: dodgerblue;
+    border-radius: 15px;
+}
+
+#select #green{
+    background-color: lightgreen;
+    border-radius: 15px;
+}
+
+#select #orange{
+    background-color: orange;
+    border-radius: 15px;
+}
+
+#select #red{
+    background-color: tomato;
+    border-radius: 15px;
+}

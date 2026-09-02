@@ -1,0 +1,1953 @@
+[
+    {
+        "Q": 1,
+        "question": "The owner wanted to sell his house mainly because he …….…….………. .",
+        "options": {
+            "A": "felt lonely living in the country ",
+            "B": "was disappointed with its condition",
+            "C": "was tired of living there and wanted something better ",
+            "D": "didn’t like his neighbours"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "passage"
+    },
+    {
+        "Q": 2,
+        "question": "By ………….……… , the man tried to sell the house before contacting an estate agent .",
+        "options": {
+            "A": "putting up signs ",
+            "B": "talking to neighbours",
+            "C": "putting it for sale in the local newspapers ",
+            "D": "All of them are correct"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "passage"
+    },
+    {
+        "Q": 3,
+        "question": "The man decided to use an estate agent because …………..…….. .",
+        "options": {
+            "A": "he had no time to continue trying himself",
+            "B": "the house needed a lot of repairs",
+            "C": "everything he tried on his own didn’t work ",
+            "D": "he wanted to increase the price"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "passage"
+    },
+    {
+        "Q": 4,
+        "question": "The final decision of the owner suggests that ………..…………. .",
+        "options": {
+            "A": "the advertisement changed his feelings about his house ",
+            "B": "he always wanted to move",
+            "C": "estate agents couldn’t persuade people ",
+            "D": "he was angry with the agent"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "passage"
+    },
+    {
+        "Q": 5,
+        "question": "From the top of the Empire State Building, you can see the Statue of Liberty to the …………….……. and Broadway to the ………….…...…… .",
+        "options": {
+            "A": "south west / north ",
+            "B": "north / south west ",
+            "C": "south east / north ",
+            "D": "east / south"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 6,
+        "question": "A government organization (HCECR) has been set up to …………..……… .",
+        "options": {
+            "A": "investigate the mound of Erbil ancient Citadel",
+            "B": "protect Erbil ancient Citadel and give it new life",
+            "C": "discover the important secrets the mound of Erbil Citadel may hold",
+            "D": "plan only archeological work at Erbil Citadel"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 7,
+        "question": "This sentence (Don’t just ride the bus to school: ride and read!) explains the idea of ………………..… .",
+        "options": {
+            "A": "taking breaks ",
+            "B": "revising late ",
+            "C": "Cenkilling two birds with one stonetral",
+            "D": "avoiding TV"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 8,
+        "question": "………….…..……. was first developed to allow scientists ……..…..….…….. .",
+        "options": {
+            "A": "internet / share information more easily",
+            "B": "The first World Wide Web / make a huge amount of money",
+            "C": "SchoolNet / join the social sites",
+            "D": "Wikipedia / connect schools and libraries in Canada"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 9,
+        "question": "Which statement is false?",
+        "options": {
+            "A": "Grade 12 student Steve Hall thought that Layla was getting stressed out",
+            "B": "Ms Reilly asked Azad to give a short presentation on his experiences in New York.",
+            "C": "Joseph Nujoma was a soil scientist from Guatemala, Central America.",
+            "D": "Steve Wright went to university to study architecture, but he changed after a year."
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 10,
+        "question": "The limited resources of land and water will be reduced further as we try to …………….……… ",
+        "options": {
+            "A": "grow crops in liquid",
+            "B": "add genes from one plant to another",
+            "C": "get more from them",
+            "D": "use hydroponics on a very large scale"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 11,
+        "question": "The base of the Great Pyramid of Khufu is ……..……..…….. in shape, with each side rising to a height\n        of …….………..…..metres.",
+        "options": {
+            "A": "square / 146",
+            "B": "triangular / 230",
+            "C": "rectangular / 7.5 ",
+            "D": "circular / 164"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 12,
+        "question": "‘ The audience was great, and there was lots of discussion, so they must have been interested. ’\n        ( This is a part of an email that was sent to ………………….. . )",
+        "options": {
+            "A": "Azad Qadir",
+            "B": "Stella Farrant ",
+            "C": "Kate Reilly",
+            "D": "Rosa Gomez"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 13,
+        "question": "Choose the correct option.",
+        "options": {
+            "A": "The words (departure) and (lounge) never go together",
+            "B": "The prefix (in-) in the word (incomplete) means (again).",
+            "C": "The word (various) means: (to become an expert in one area of work, study, etc.).",
+            "D": "(Keeping old pots and cans to plant flowers and vegetables) is an example of (Reusing)"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 14,
+        "question": "Planning is not just about following a school ………..…………., it is also about using a daily\n        ……..……………… to stay organized.",
+        "options": {
+            "A": "calendars / schedule",
+            "B": "timetable / diary ",
+            "C": "diaries / calendar ",
+            "D": "schedule / timetables"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "reading"
+    },
+    {
+        "Q": 15,
+        "question": "People are waiting for the plane to …………………… ",
+        "options": {
+            "A": "take out",
+            "B": "take off",
+            "C": "take away",
+            "D": "take over"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 16,
+        "question": "Choose the order (noun / verb / adjective).",
+        "options": {
+            "A": "research / immigrant / daily",
+            "B": "beauty / plan / chemist",
+            "C": "study / present / safe",
+            "D": "preparation / waste / fashion"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 17,
+        "question": "You won’t find any ……..………….. in your life unless you start thinking ………..…...… about your choices.",
+        "options": {
+            "A": "different / differently",
+            "B": "difference / differently",
+            "C": "different / difference",
+            "D": "difference / differencely"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 18,
+        "question": "There are two silent letters in the word …………..…….; but there is only one silent letter in the word …………….…….. ",
+        "options": {
+            "A": "science / whole",
+            "B": "whistle / design",
+            "C": "rhyme / decade",
+            "D": "whose / district"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 19,
+        "question": "The letter (x) in the word ………….……… is sounded ………….……….. .",
+        "options": {
+            "A": "anxious, / g / and / ʃ /",
+            "B": "exchange, / k / and / z /",
+            "C": "exist, / g / and / s /",
+            "D": "exhibition, / k / and / s /"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "sound"
+    },
+    {
+        "Q": 20,
+        "question": "In the correct order, choose the phonetic symbols for the underlined letters in (capstan-bars).",
+        "options": {
+            "A": "/ æ /, / ə /, /a:/",
+            "B": "/ a: /, / ə /, / æ /",
+            "C": "/ ə /, / ʌ /, / æ /",
+            "D": "/ æ /, / ʌ /, /a:/"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "sound"
+    },
+    {
+        "Q": 21,
+        "question": "The word …………………… doesn’t carry the sound …………………… .",
+        "options": {
+            "A": "bang, / ŋ /",
+            "B": "pyramid, / j /",
+            "C": "garrison, / g /",
+            "D": "although, / ð /"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "sound"
+    },
+    {
+        "Q": 22,
+        "question": "The sounds / ʃ / and / z / are found in the word ………………… ",
+        "options": {
+            "A": "shipmates",
+            "B": "decisions",
+            "C": "measurements",
+            "D": "dimensions"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "sound"
+    },
+    {
+        "Q": 23,
+        "question": "We ………..…….. the entire morning dealing with this problem, …………………. some time in the afternoon\n        to prepare for tomorrow’s meeting.",
+        "options": {
+            "A": "have spent / let’s take",
+            "B": "had to spent / I suggest we take",
+            "C": "had spent / I suggest we taken",
+            "D": "spent / what about taking"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 24,
+        "question": "……………… the ancient city ………………… by an earthquake.",
+        "options": {
+            "A": "People believe / has destroyed",
+            "B": "It is believed that / was destroyed",
+            "C": "A lot of people believe that / was been destroyed",
+            "D": "it is believe / has been destroyed"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 25,
+        "question": "The river near our house, ……………..…..… water to thousands of farmers, is in danger of pollution.",
+        "options": {
+            "A": "which provides",
+            "B": "who provides",
+            "C": "that provides",
+            "D": "which it provides"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 26,
+        "question": "If we change ………………….. to ………..………., it will be ………………….",
+        "options": {
+            "A": "40% / fraction / a fifth",
+            "B": "a quarter / percentage / 25%",
+            "C": "twenty percent / fraction / two fifths",
+            "D": "a twentieth / percentage / 10%"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 27,
+        "question": "He trained properly last week ………………….. the match.",
+        "options": {
+            "A": "so that he couldn’t win",
+            "B": "so that he wouldn’t lose",
+            "C": "so as to lose",
+            "D": "for the purpose to win"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 28,
+        "question": "He’d put the money in his pocket and disappeared, ………..………….?",
+        "options": {
+            "A": "hadn’t he",
+            "B": "didn’t he",
+            "C": "wouldn’t he",
+            "D": "Both (A and C) are correct"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 29,
+        "question": "The flower arrangements for the Hall ………………….. now.",
+        "options": {
+            "A": "are finishing",
+            "B": "were finished",
+            "C": "is finished ",
+            "D": "are being finished"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 30,
+        "question": "(You need to stop arguing, or you will get into trouble.) To express the same meaning, we say:",
+        "options": {
+            "A": "Unless you won’t get into trouble, you stop arguing.",
+            "B": "You will get into trouble if you stop arguing",
+            "C": "If you don’t stop arguing, you will get into trouble.",
+            "D": "You won’t get into trouble when you didn’t stop arguing."
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 31,
+        "question": "‘ She will be leaving for work early in the morning.’ If we ask about the underlined part of the\n        sentence, we say ………………… .",
+        "options": {
+            "A": "Why will she be leaving for work?",
+            "B": "Where will she be leaving for work?",
+            "C": "When will be she leaving for work?",
+            "D": "When will she be leaving for work?"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 32,
+        "question": "We ……………….. in London …………..…… 2020.",
+        "options": {
+            "A": "lived / in",
+            "B": "had live / for",
+            "C": "have been living / since",
+            "D": "Both (A and C) are correct"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 33,
+        "question": "If only the farmers ……….………. less intensive techniques, they might …………………..the disaster",
+        "options": {
+            "A": "used / reduced",
+            "B": "had used / have reduced",
+            "C": "had used / had reduced",
+            "D": "uses / reduce"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 34,
+        "question": "The party will start ………….…...….. 8 p.m. ………..……..….. Friday and continue …………..……… midnight.",
+        "options": {
+            "A": "till / at / in",
+            "B": "on / by / at",
+            "C": "at / in / on",
+            "D": "at / on / until"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 35,
+        "question": "The bus arrived late. It …………….……. on time.",
+        "options": {
+            "A": "can’t have left",
+            "B": "may be not left",
+            "C": "must have left",
+            "D": "might have be leaving"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 36,
+        "question": "This room isn’t ……………..…. to fit everyone. In fact, it’s …………………. than we expected.",
+        "options": {
+            "A": "too big / less bigger",
+            "B": "big enough / much smaller",
+            "C": "enough big / smaller",
+            "D": "too small / more smaller"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 37,
+        "question": "(As long as we look after our land well, it will be productive.) The phrase (as long as) in the sentence\n        ………….…… ",
+        "options": {
+            "A": "focuses on a positive result",
+            "B": "carries a negative idea",
+            "C": "means (I really wish)",
+            "D": "expresses something unreal"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 38,
+        "question": "Which of the following is grammatically correct?",
+        "options": {
+            "A": "You have better take a few days off and relax",
+            "B": "The water level risen after the heavy rain",
+            "C": "Soon after I get home, I’ll start my homework.",
+            "D": "A city for the next conferences have to be chosen"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 39,
+        "question": "He ……….…..…… the dog out while his mother ……….…….….. on the phone",
+        "options": {
+            "A": "has let / were talking",
+            "B": "will let / talk",
+            "C": "lets / talked",
+            "D": "let / was talking"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 40,
+        "question": "‘ A volunteer is a person who helps others without expecting anything in return.’ The relative\n        pronoun in this sentence ………………. .",
+        "options": {
+            "A": "is necessary",
+            "B": "is the object of the relative clause",
+            "C": "is not needed",
+            "D": "can be left out"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 41,
+        "question": "(…………..….… the students ………….…… uniforms?) is a negative question for………………….",
+        "options": {
+            "A": "Didn’t / wear / The students wore uniforms",
+            "B": "Why weren’t / wear / The students were wearing uniforms",
+            "C": "Don’t / wear / The students have to wear uniforms",
+            "D": "Have / worn / The students haven’t worn uniforms"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 42,
+        "question": "I was the one who warned them about the problem; that’s ……………..… I wasn’t surprised by the\n        outcome",
+        "options": {
+            "A": "when",
+            "B": "why",
+            "C": "where",
+            "D": "which"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "grammar"
+    },
+    {
+        "Q": 43,
+        "question": "After his fight with Black Dog, the old sailor fell against the wall, but he was lucky because ………..…",
+        "options": {
+            "A": "Dr Livesey did his best to save his life",
+            "B": "Dr Livesey helped him win the fight",
+            "C": "Jim brought Dr Livesey to look after him",
+            "D": "jim’s mother was there and took care of him"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 44,
+        "question": "What happened at the Spy-Glass inn that made Jim worried?",
+        "options": {
+            "A": "Silver refused to show Jim the way back to the docks.",
+            "B": "Jim noticed Silver talking secretly with Harry.",
+            "C": "Jim saw Black Dog leaving the inn in a hurry.",
+            "D": "Silver began asking Jim questions about the treasure map."
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 45,
+        "question": "nside the captain’s sea-chest there were many things, but what Jim chose to take instead of the rest\n        of the money was the ………………….. .",
+        "options": {
+            "A": "large piece of silver",
+            "B": "packet covered in cloth",
+            "C": "carefully folded suit",
+            "D": "old Spanish watch"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 46,
+        "question": "Long John Silver sent Dick to fill up a cup of rum and bring it up, which made Jim realize ….…….……. ",
+        "options": {
+            "A": "how Mr Arrow had got the drink that killed him",
+            "B": "why Silver had no control over the crew",
+            "C": "why the honest men hated Silver that much",
+            "D": "how Mr Arrow spent his money"
+        },
+        "answer": 0,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 47,
+        "question": "Dr Livesey used the words ‘………….……..’ to describe the old sailor while warning him about his drinking.",
+        "options": {
+            "A": "an old friend",
+            "B": "a brave sailor",
+            "C": "a dirty old scoundrel",
+            "D": "a drunk pirate"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 48,
+        "question": "Flint took six strong sailors to the island to help him",
+        "options": {
+            "A": "find the treasure",
+            "B": "look for Ben Gunn",
+            "C": "bury the treasure",
+            "D": "find Ben Gunn’s boat"
+        },
+        "answer": 2,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 49,
+        "question": "Gray and Hunter went down to the shore to get the rest of the supplies under water, but they were\n        too late because …………………… were already there, loading the supplies onto a boat",
+        "options": {
+            "A": "Dr Livesey and the squire",
+            "B": "Silver and Israel Hands",
+            "C": "Jim and Ben Gunn",
+            "D": "four or five of the mutineers"
+        },
+        "answer": 3,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 50,
+        "question": "After Jim found Ben Gunn’s boat, he decided to row to the Hispaniola to ………",
+        "options": {
+            "A": "cut the anchor rope / get on board",
+            "B": "let the ship go / stop the pirates from using it",
+            "C": "see Israel Hands / bring him some brandy",
+            "D": "kill Israel Hands / return the ship to her captain"
+        },
+        "answer": 1,
+        "time": "25-26-1",
+        "type": "novel"
+    },
+    {
+        "Q": 51,
+        "question": "The men went on fighting after moving round the corner of the house to ………………….. .",
+        "options": {
+            "A": "give Mr Miller time to call the police",
+            "B": "attract more people to the street",
+            "C": "frighten Mr Miller into closing the window",
+            "D": "make their quarrel look real"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "passage"
+    },
+    {
+        "Q": 52,
+        "question": "Which of the following is true about the two young men in the story?",
+        "options": {
+            "A": "They were looking for Mr Miller’s house.",
+            "B": "They wanted Mr Miller to sleep early.",
+            "C": "They were more interested in stealing than fighting.",
+            "D": "They were honest people."
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "passage"
+    },
+    {
+        "Q": 53,
+        "question": "Mr Miller probably felt ………………….. when he returned to bed.",
+        "options": {
+            "A": "proud of himself",
+            "B": "sad for losing his blanket",
+            "C": "angry with his wife",
+            "D": "excited about the fight"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "passage"
+    },
+    {
+        "Q": 54,
+        "question": "What lesson does the story teach?",
+        "options": {
+            "A": "We should always find out why people are arguing.",
+            "B": "Think before putting yourself at risk.",
+            "C": "Fighting can always solve problems.",
+            "D": "We must always trust strangers."
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "passage"
+    },
+    {
+        "Q": 55,
+        "question": "The underlined phrase ‘within easy reach of the men’ in the passage most nearly means:",
+        "options": {
+            "A": "Very close for the men to touch him.",
+            "B": "Far away enough to notice them.",
+            "C": "Hidden from the men’s sight.",
+            "D": "Unable to hear what the men were saying."
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "passage"
+    },
+    {
+        "Q": 56,
+        "question": "................... was a great open space that New York saved as the city spread north in the 19th century.",
+        "options": {
+            "A": "Broadway",
+            "B": "JFK Airport",
+            "C": "Central Park",
+            "D": "The Empire State Building"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 57,
+        "question": "Although the mound of Erbil Citadel has never been properly investigated, archaeologists believe that it contains ………..………. .",
+        "options": {
+            "A": "lots of buried money",
+            "B": "the remains of many cities",
+            "C": "lots of Chinese gold coins",
+            "D": "an old metal box"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 58,
+        "question": "To plan their route to their goals, it is important for grade 12 students to ………………… .",
+        "options": {
+            "A": "make themselves a wall planner",
+            "B": "use calendar function in mobiles",
+            "C": "put off the revision they need to do",
+            "D": "Both (A and B) are correct"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 59,
+        "question": "After ten years’ work, ………………. in 1999.",
+        "options": {
+            "A": "Graham Bell invented the Photophone",
+            "B": "the first website was invented",
+            "C": "Apollo spacecraft landed on the moon",
+            "D": "SchoolNet in Canada was launched"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 60,
+        "question": "The speaker of this statement ………………… is …………………. .",
+        "options": {
+            "A": "‘You don’t want to miss the chance to see New York.’ / Stella Farrant",
+            "B": "‘Corn is one basic thing we can’t live without.’ / Neelam Reddy",
+            "C": "‘If the help-desk can’t help, then bring your computer to me.’ / Carla Green",
+            "D": "‘It’s said that we live in a global community.’ / Rosa Gomez"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 61,
+        "question": "Similar problems to the ‘Oklahoma Dust Bowl’ are happening today in China, Australia and Africa, which means that we ………………. .",
+        "options": {
+            "A": "prefer genetically modified crops",
+            "B": "are still growing crops intensively on new farmland",
+            "C": "no longer want to create new farmland",
+            "D": "use hydroponics on a very large scale"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 62,
+        "question": "‘Mid-summer’s day’ in your text book refers to the time when thousands of people visit ………….….. .",
+        "options": {
+            "A": "the Great Pyramid of Khufu",
+            "B": "Erbil Citadel",
+            "C": "Stonehenge",
+            "D": "the Silk Road Exhibition"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "general"
+    },
+    {
+        "Q": 63,
+        "question": "The ……………….. woman enjoys documentaries about ……….……….. Rome and Egypt.",
+        "options": {
+            "A": "ancient / old",
+            "B": "old / ancient",
+            "C": "youth / old",
+            "D": "old / young"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 64,
+        "question": "Choose the correct statement.",
+        "options": {
+            "A": "(For nothing) means (for free) in: (Rekan didn’t want any money, he did the job for nothing.)",
+            "B": "The words (rural) and (urban) can be synonyms in many contexts.",
+            "C": "We use the suffix (un-) to form the opposite of the word (productive).",
+            "D": "A period of ten years is (decade); but (priority) is the length of a school lesson."
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 65,
+        "question": "Emma is ………..…….. a hardworking student, but she is still ………….…….. about the exam.",
+        "options": {
+            "A": "regarded as / frightening",
+            "B": "regard as / frightened",
+            "C": "see as / worry",
+            "D": "seen as / nervous"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 66,
+        "question": "Choose a false statement.",
+        "options": {
+            "A": "The word (science) has no verb form.",
+            "B": "The forms of this order (waste, speech, personal) is (verb, noun, adjective).",
+            "C": "The word (fashionably) is spelled correctly.",
+            "D": "The adjective form of the word (safe) is (safety)."
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 67,
+        "question": "Have …….……. for the concert started yet? // Yes, we are ………… the stage and the sound equipment.",
+        "options": {
+            "A": "preparing / preparation",
+            "B": "prepared / preparation",
+            "C": "preparations / preparing",
+            "D": "preparation / prepared"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 68,
+        "question": "The letter (c) in the word ………..……… is pronounced /ʃ/, but silent (w) is found in the word ……..………. .",
+        "options": {
+            "A": "facility / coxswain",
+            "B": "ocean / swamp",
+            "C": "specialize / swear",
+            "D": "efficient / sword"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 69,
+        "question": "Which pair of words ends with the same sound?",
+        "options": {
+            "A": "relaxed / locked",
+            "B": "loved / pushed",
+            "C": "called / watched",
+            "D": "needed / laughed"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 70,
+        "question": "In the correct order, choose the phonetic symbols for the underlined letters in (semester).",
+        "options": {
+            "A": "/ə/, /ə/, /ʌ/",
+            "B": "/e/, /ə/, /ə/",
+            "C": "/ɪ/, /ə/, /e/",
+            "D": "/ə/, /e/, /ə/"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 71,
+        "question": "The underlined letters (ie) in the word ………….……. are sounded /ɪə/.",
+        "options": {
+            "A": "achieve",
+            "B": "field",
+            "C": "fierce",
+            "D": "berries"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 72,
+        "question": "The sound ………….….. is found in the word ………………… .",
+        "options": {
+            "A": "/ʃ/, Christianity",
+            "B": "/t/, eighth",
+            "C": "/n/, drunk",
+            "D": "None of them"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 73,
+        "question": "I ………..…..…. many people during ………….…….. few days.",
+        "options": {
+            "A": "am meeting / the last",
+            "B": "will be meeting / the next",
+            "C": "have been meeting / the past",
+            "D": "Both (B and C) are correct"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 74,
+        "question": "………………… the Big Apple Hostel? It’s ………………… than the one across the street.",
+        "options": {
+            "A": "Why not stay at / much less expensive",
+            "B": "What about / a lot more popular",
+            "C": "What about staying at / much better",
+            "D": "All of them are correct"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 75,
+        "question": "In (relative clauses with extra information), we ………………… .",
+        "options": {
+            "A": "show that the information is extra with comma(s)",
+            "B": "add information that we really need to know",
+            "C": "use which or that to refer to things or animals",
+            "D": "complete the meaning of the sentence"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 76,
+        "question": "Which option is incorrect?",
+        "options": {
+            "A": "(The dog bited him on the leg.) is a correct past simple tense.",
+            "B": "Some forms of suggestion include the speaker, e.g. (Let’s ...), but others do not, e.g. (Why not ...?).",
+            "C": "The form (It is believed that …) is a formal way to express an idea or opinion that many people have.",
+            "D": "The (If) part of a third conditional expresses something unreal, something that didn’t happen."
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 77,
+        "question": "He arrived early so …………………miss the first lesson.",
+        "options": {
+            "A": "as to",
+            "B": "that he wouldn’t",
+            "C": "not as to",
+            "D": "that he will"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 78,
+        "question": "We ……………… a peaceful night’s sleep ……………….. my dad …………………… his phone on silent.",
+        "options": {
+            "A": "could have / as long as / put",
+            "B": "won’t have / unless / doesn’t put",
+            "C": "may have / if not / was put",
+            "D": "would haven’t had / if only / hadn’t put"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 79,
+        "question": "In ( …………………. ) the underlined part is grammatically correct.",
+        "options": {
+            "A": "A quarters of the earth’s surface is land.",
+            "B": "Water near the surface is five time the amount in the atmosphere.",
+            "C": "Grassland covers twice times the area that is farmland.",
+            "D": "Approximately a seventh of the world’s land is desert."
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 80,
+        "question": "You ………….…….. your medicine, or ………..………. .",
+        "options": {
+            "A": "ought to take / you will feel better",
+            "B": "’d better took / you will get worse",
+            "C": "need to take / you won’t get better",
+            "D": "should take / you would felt better"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 81,
+        "question": "…….…….……. the school gets more money, all the classrooms ………….…….. .",
+        "options": {
+            "A": "When / will be repainted",
+            "B": "After / had repainted",
+            "C": "As / will repaint",
+            "D": "While / were repainting"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 82,
+        "question": "………………….. hit the child? // ……………….….. .",
+        "options": {
+            "A": "Has the taxi driver / No, he hasn’t",
+            "B": "Where was the taxi driver / In the street",
+            "C": "Why had the taxi driver / yesterday",
+            "D": "Did the taxi driver / No, he did"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 83,
+        "question": "‘‘First, you have to check in your luggage and get your boarding pass.’’ This sentence carries the idea of ………………….. .",
+        "options": {
+            "A": "Making suggestion",
+            "B": "Giving instruction",
+            "C": "Passive voice",
+            "D": "Possibility"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 84,
+        "question": "The gym is closed …………..……. 12 p.m. ……..…………. 1 p.m. …………..…… Wednesday for cleaning.",
+        "options": {
+            "A": "from / to / at",
+            "B": "between / and / on",
+            "C": "at / till / in",
+            "D": "from / at / until"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 85,
+        "question": "Raz was very happy. She …………….. the driving test.",
+        "options": {
+            "A": "must have passed",
+            "B": "can’t have failed",
+            "C": "might have failed",
+            "D": "Both (A and B) are correct"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 86,
+        "question": "Three grammatical mistakes are found in …………………… .",
+        "options": {
+            "A": "There is too many question to answer.",
+            "B": "The road wasn’t enough wide for two cars to pass.",
+            "C": "Haven’t we get food enough to fed everyone?",
+            "D": "The box is too heavy for one person to carry."
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 87,
+        "question": "If you ……..………….. a real change, you ……….………… discomfort and kept moving forward.",
+        "options": {
+            "A": "want / will accept",
+            "B": "wanted / would accept",
+            "C": "had wanted / would have accepted",
+            "D": "All of them are incorrect"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 88,
+        "question": "(A city for the next conference ………………..… by the organizers.) is the correct passive sentence for: (The organizers …………..….. a city for the next conference)",
+        "options": {
+            "A": "has to be chosen / have to choose",
+            "B": "is being chosen / are chosen",
+            "C": "has already chosen / have already been chosen",
+            "D": "is chosen / chooses"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 89,
+        "question": "In the sentence (The player who ………………… received the medal.), the relative pronoun (who) isn’t the object of the relative clause.",
+        "options": {
+            "A": "won the game",
+            "B": "we loved",
+            "C": "the team supported",
+            "D": "everyone liked"
+        },
+        "answer": 0,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 90,
+        "question": "He ………………… the photos on the wall, ………………….. ?",
+        "options": {
+            "A": "’d sticked / hadn’t he",
+            "B": "stuck / didn’t he",
+            "C": "has stuck / doesn’t he",
+            "D": "’s stuck / isn’t he"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 91,
+        "question": "………………….. able to escape through the back door?",
+        "options": {
+            "A": "Wasn’t he",
+            "B": "Hasn’t he",
+            "C": "Doesn’t he",
+            "D": "Couldn’t he"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 92,
+        "question": "Do you still remember the museum …………………. we went on the school trip?",
+        "options": {
+            "A": "when",
+            "B": "where",
+            "C": "why",
+            "D": "who"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 93,
+        "question": "……………..…, Jim was standing at the door and he saw someone coming slowly along the road.",
+        "options": {
+            "A": "Several days after the death of Jim’s father",
+            "B": "On the night before Jim’s father was buried",
+            "C": "The day after the sudden death of Jim’s father",
+            "D": "On a hot sunny day"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 94,
+        "question": "It was about ………..……. o’clock when Jim found the key to the old sailor’s sea-chest ………..…….. .",
+        "options": {
+            "A": "four / in his pocket",
+            "B": "eight / in his hand",
+            "C": "ten / on the floor near his hand",
+            "D": "six / on a piece of string around his neck"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 95,
+        "question": "With the help of Blandly, the squire managed to ………………… in Bristol.",
+        "options": {
+            "A": "find a group of the toughest old sailors",
+            "B": "meet Long John Silver",
+            "C": "buy Hispaniola",
+            "D": "get rid of the weakest two of the sailors he had found"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 96,
+        "question": "Which of the following is true according to the story of the Treasure Island?",
+        "options": {
+            "A": "At the start of the voyage, Long John Silver was asked to sing a song Jim had never heard before.",
+            "B": "The crew did what Mr Arrow told them to and seemed to like him.",
+            "C": "Through the apple barrel incident, Jim realized there were still honest men on board.",
+            "D": "Dick, who was the youngest man on board the ship, refused to become a pirate."
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 97,
+        "question": "After the Hispaniola reached the island, most of the crew were close to mutiny; therefore, the honest men decided to ………………… .",
+        "options": {
+            "A": "turn the ship back to Bristol",
+            "B": "have a meeting in the cabin",
+            "C": "attack them immediately",
+            "D": "send Jim ashore with the two boats"
+        },
+        "answer": 1,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 98,
+        "question": "Ben Gunn promised to give Jim some of the treasure because the boy …….………….. .",
+        "options": {
+            "A": "was a member of Captain Flint’s crew",
+            "B": "told him all about their voyage",
+            "C": "brought him lots of cheese",
+            "D": "was the first to find him"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 99,
+        "question": "Dr Livesey and …………..……. went ashore in a rowing-boat to find …………….….which they had seen on the treasure map.",
+        "options": {
+            "A": "Jim / the fresh-water spring",
+            "B": "Hunter / the stockade",
+            "C": "Joyce / the white rock",
+            "D": "Redruth / Ben Gunn’s boat"
+        },
+        "answer": 3,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+    {
+        "Q": 100,
+        "question": "Jim found Israel Hands sitting against the side of the ship; and he could only trust Hands on one point - they both wanted to ………………… .",
+        "options": {
+            "A": "find Ben Gunn’s boat",
+            "B": "return the ship back to Captain Smollett",
+            "C": "beach the ship somewhere safe",
+            "D": "get away from the dead bodies"
+        },
+        "answer": 2,
+        "time": "25-26-2",
+        "type": "novel"
+    },
+
+    {
+        "Q": 101,
+        "question": "Peter felt very uncomfortable when he …………………….. .",
+        "options": {
+            "A": "was reminded of the unpaid money in front of people",
+            "B": "taught the shopkeeper a lesson",
+            "C": "borrowed money from the shopkeepers",
+            "D": "met the other shopkeepers in town"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "passage"
+    },
+    {
+        "Q": 102,
+        "question": "According to the passage, which statement is true?",
+        "options": {
+            "A": "Peter was waiting for his friends to pay his bills.",
+            "B": "Most of the shopkeepers in the town were asking for their money.",
+            "C": "The shopkeeper owed Peter a hundred and twenty-two pounds.",
+            "D": "Peter was not ready to pay his bills at that time."
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "passage"
+    },
+    {
+        "Q": 103,
+        "question": "What Peter was trying to say about the debt was that the shopkeeper ……..………….. .",
+        "options": {
+            "A": "might get most of his money back in three months",
+            "B": "should wait for a year to get his money back",
+            "C": "would get more than 122 pounds",
+            "D": "could only get back two pounds after three months"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "passage"
+    },
+    {
+        "Q": 104,
+        "question": "The underlined word ‘argue’ in the story means …………..….….. .",
+        "options": {
+            "A": "go back to a place where you were before",
+            "B": "succeed in doing something difficult",
+            "C": "talk with someone who does not agree with you",
+            "D": "find the answer to a problem or puzzle"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "passage"
+    },
+    {
+        "Q": 105,
+        "question": "New York began growing faster, and by 1830 it was ………..………… .",
+        "options": {
+            "A": "an extremely high-crime area",
+            "B": "the main centre of trade in the USA",
+            "C": "taken over by some Dutch people",
+            "D": "renamed New Amsterdam by the British"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 106,
+        "question": "Important developments in ancient human history happened near Erbil. Therefore, the mound …….…. .",
+        "options": {
+            "A": "has properly been investigated by archaeologists",
+            "B": "is almost perfectly circular in shape",
+            "C": "may hold important secrets about ancient human past",
+            "D": "contains lots of buried money"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 107,
+        "question": "According to Dr. Sally Dale, a good way to understand complicated ideas and information clearly is to ………….…..……. .",
+        "options": {
+            "A": "put them off",
+            "B": "leave them till the night before the exam",
+            "C": "avoid them",
+            "D": "organize them by using lists, charts, etc."
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 108,
+        "question": "SchoolNet was first developed in Canada and it provided both ………………. and ………..…. sites for schools to share.",
+        "options": {
+            "A": "shopping / information",
+            "B": "information / interactive",
+            "C": "communication / shopping",
+            "D": "shopping / social"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 109,
+        "question": "Which statement is not true about the Great Pyramid of Khufu?",
+        "options": {
+            "A": "Its base has a total area of almost 53,000 square metres.",
+            "B": "Its triangular sides rise to a height of 146 metres.",
+            "C": "It is an ancient stone circle roughly 4,500 years old.",
+            "D": "It contains 2.5 million stone blocks."
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 110,
+        "question": "The ‘Oklahoma Dust Bowl’ disaster shows that …………………. .",
+        "options": {
+            "A": "GM can not help produce the food we will need",
+            "B": "creating new farmland can be very dangerous",
+            "C": "no danger comes when we create new farmland",
+            "D": "plants in ordinary soil grow better and faster"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 111,
+        "question": "To save money, people in Guatemala ………...………. .",
+        "options": {
+            "A": "are buying less meat and eating more vegetables",
+            "B": "have to go deeper and deeper for groundwater",
+            "C": "let their animals move round and feed freely",
+            "D": "are growing crops in salt water"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "general"
+    },
+    {
+        "Q": 112,
+        "question": "The new leader of the government gave a great ……………..……. that made the whole country feel he was the right man for the job.",
+        "options": {
+            "A": "information",
+            "B": "speech",
+            "C": "lectures",
+            "D": "conversations"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 113,
+        "question": "...................... is an example of (repairing), but ‘using materials again, often to make something different’ is …………..…... .",
+        "options": {
+            "A": "Adding new pieces to mend old furniture / reducing",
+            "B": "Storing rain water to water garden flowers / reusing",
+            "C": "Replacing buttons that are missing from clothes / recycling",
+            "D": "Planting flowers in old pots and cans / replacing"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 114,
+        "question": "Asia has many great rivers - the Tigris and Euphrates, for ………….…….. .",
+        "options": {
+            "A": "no things",
+            "B": "instance",
+            "C": "example",
+            "D": "Both ( B and C )"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 115,
+        "question": "Choose the correct option:",
+        "options": {
+            "A": "The word (environmental) is not an adjective.",
+            "B": "The word (civilization) is a noun, but the verb form of (creation) is (creat).",
+            "C": "The adjective form of the word (science) is (scientist).",
+            "D": "The word (immigrant) is a noun for person, but the word (banking) is a noun thing."
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 116,
+        "question": "At drama schools, young ……..………. do all sorts of strange activities and exercises to help them learn to ……….…….. well.",
+        "options": {
+            "A": "actions / act",
+            "B": "actor / active",
+            "C": "activity / action",
+            "D": "actors / act"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "vocabulary"
+    },
+    {
+        "Q": 117,
+        "question": "In the word ………………., the letters (th) are not sounded / θ / .",
+        "options": {
+            "A": "although",
+            "B": "thought",
+            "C": "through",
+            "D": "thousand"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 118,
+        "question": "There is no silent letter in the word …………..…….; but in the word ……………..... the letter (w) is silent.",
+        "options": {
+            "A": "gene / weight",
+            "B": "draft / sword",
+            "C": "decade / whole",
+            "D": "limit / whistle"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 119,
+        "question": "The underlined letters in the word (exhausted) are sounded ………………… and …………….. .",
+        "options": {
+            "A": "/ z / , / ed /",
+            "B": "/ s / , / t /",
+            "C": "/ z / , / d /",
+            "D": "/ s / , / ɪd /"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 120,
+        "question": "Choose the correct phonetic symbols for the letter (i) in the words (sir) and (sit).",
+        "options": {
+            "A": "/ e / , / ɪ /",
+            "B": "/ ə / , / i: /",
+            "C": "/ ɪ / , / i: /",
+            "D": "/ 3: / , / ɪ /"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 121,
+        "question": "The letters (ea) in the word ………………. are pronounced / eə / .",
+        "options": {
+            "A": "sealed",
+            "B": "swearing",
+            "C": "fear",
+            "D": "stream"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "pronunciation"
+    },
+    {
+        "Q": 122,
+        "question": "…………………. to get a job yet? // Yes, I ………..……….. for a publisher since I arrived.",
+        "options": {
+            "A": "Have you able / worked",
+            "B": "Have been you able / have worked",
+            "C": "Have you been able / have been working",
+            "D": "Did you able / have been worked"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 123,
+        "question": "…………………. that early humans have lived here for 8000 years. (Choose the formal way of introducing the opinion)",
+        "options": {
+            "A": "It is said",
+            "B": "They say",
+            "C": "A lot of people say",
+            "D": "People say"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 124,
+        "question": "(Paris, which is known as the City of Light, is a beautiful place to visit.) In the underlined part of the sentence …………..…. .",
+        "options": {
+            "A": "the relative pronoun (which) can’t be replaced by (that)",
+            "B": "extra information is added about (Paris)",
+            "C": "the commas show that the information is not extra",
+            "D": "Both (A and B)"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 125,
+        "question": "( …………..….. ) is equal to (5%).",
+        "options": {
+            "A": "one twenty",
+            "B": "a twentieth",
+            "C": "an twentieth",
+            "D": "a twentieths"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 126,
+        "question": "He took a map …………………….. get lost in the city.",
+        "options": {
+            "A": "so that he wouldn’t",
+            "B": "so as not to",
+            "C": "in order to not",
+            "D": "Both (A and B)"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 127,
+        "question": "Steve …………..……… his precious time.",
+        "options": {
+            "A": "shouldn’t waste",
+            "B": "hadn’t better waste",
+            "C": "need to stop wasting",
+            "D": "must not to waste"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 128,
+        "question": "Life in little towns like Grass Valley is ……………….. than it is in New York.",
+        "options": {
+            "A": "much less busy",
+            "B": "a lot more busier",
+            "C": "less busier",
+            "D": "the least busy"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 129,
+        "question": "The workshop and café equipment ……….....……. It ………….…… by the end of next week.",
+        "options": {
+            "A": "hasn’t been set up yet / will be finished",
+            "B": "are not being set up now / has to been finished",
+            "C": "is not been set up this week / will finish",
+            "D": "will not set up today / is going to be finish"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 130,
+        "question": "You …………..… weight ……..…..….. you eat less and exercise regularly.",
+        "options": {
+            "A": "wouldn’t lose / if",
+            "B": "will not lose / unless",
+            "C": "will lose / if no",
+            "D": "won’t lose / as long as"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 131,
+        "question": "About tomorrow’s ‘sky dive’, how …………………. you ……..……..……?",
+        "options": {
+            "A": "will high / be going",
+            "B": "high will / be going",
+            "C": "high will be / going",
+            "D": "high / will be gone"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 132,
+        "question": "Which statement is incorrect?",
+        "options": {
+            "A": "We only use (must) when we need to give an instruction very strongly.",
+            "B": "(Fantastic idea!) is used to express disagreement to someone’s suggestion.",
+            "C": "We use the present perfect continuous to emphasise continuing actions up to the present.",
+            "D": "When we change an active sentence to a passive sentence, the object of the active becomes the subject of the passive."
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 133,
+        "question": "We could have spent the whole weekend at the campsite if only we had brought enough food and water. (The underlined part of the sentence means ……………….. .)",
+        "options": {
+            "A": "I wish we had brought",
+            "B": "I wish we hadn’t brought",
+            "C": "I don’t wish we had brought",
+            "D": "None of them"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 134,
+        "question": "…..…..…….. her medicine everyday?",
+        "options": {
+            "A": "Hasn’t she had taken",
+            "B": "Didn’t she have taken",
+            "C": "Doesn’t she have to take",
+            "D": "Shouldn’t have she taken"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 135,
+        "question": "No one knows for sure, but the ancient boat that was carrying the jewellery ………….….…. up to ten metres long.",
+        "options": {
+            "A": "must have being",
+            "B": "could had been",
+            "C": "might have been",
+            "D": "may have be"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 136,
+        "question": "(Your brother is too young to know right from wrong.) If we use (enough) to express the same meaning, we say: (Your brother …………..…… to know right from wrong.)",
+        "options": {
+            "A": "is old enough",
+            "B": "isn’t enough old",
+            "C": "doesn’t be old enough",
+            "D": "isn’t old enough"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 137,
+        "question": "Which of the underlined preposition was not correctly used?",
+        "options": {
+            "A": "The flowers bloom beautifully in spring.",
+            "B": "The fireworks start on midnight.",
+            "C": "We will carry out our main research during week 2.",
+            "D": "We’re going to produce our project outline by Friday the 9th."
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 138,
+        "question": "What about ..................... in the countryside?",
+        "options": {
+            "A": "a walk",
+            "B": "going for a walk",
+            "C": "to going for a walk",
+            "D": "Both (A and B)"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 139,
+        "question": "Tom ………….……… his books away after he’d finished his homework, ………………….?",
+        "options": {
+            "A": "put / didn’t he",
+            "B": "puts / doesn’t he",
+            "C": "won’t put / wouldn’t he",
+            "D": "had to put / hadn’t he"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 140,
+        "question": "In which of the following sentences, the relative pronoun is the object of the relative clause?",
+        "options": {
+            "A": "She ate the cake that Marry baked.",
+            "B": "The receptionist is someone who answers phone calls to the company.",
+            "C": "The engineer that designed the bridge is highly respected.",
+            "D": "I had a friend who could speak five languages."
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 141,
+        "question": "He ……………… to work when he ………………… the accident.",
+        "options": {
+            "A": "will drive / see",
+            "B": "was driving / saw",
+            "C": "had driven / seen",
+            "D": "was driven / had saw"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 142,
+        "question": "To learn a new language, it is better to live in a country ………………. the language is spoken.",
+        "options": {
+            "A": "when",
+            "B": "where",
+            "C": "who",
+            "D": "why"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "grammar"
+    },
+    {
+        "Q": 143,
+        "question": "Long John Silver had ………….………., so he knew all the sailors in Bristol.",
+        "options": {
+            "A": "only one leg",
+            "B": "an inn",
+            "C": "a long scar across one cheek",
+            "D": "an old parrot"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 144,
+        "question": "When Pew sent his men inside the Admiral Benbow, they found …………….. but the ……………….. had already been taken.",
+        "options": {
+            "A": "the sea-chest / whole money",
+            "B": "Billy Bones’ account book / treasure map",
+            "C": "the bag of money / Flint’s writing",
+            "D": "a packet / roll of paper"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 145,
+        "question": "Silver’s parrot (Captain Flint) was named after ………………… .",
+        "options": {
+            "A": "a large hill on the island",
+            "B": "an inn in Bristol",
+            "C": "a blind pirate",
+            "D": "a famous pirate"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 146,
+        "question": "As soon as Ben Gunn saw the flag on the stockade, he asked Jim to ……………… .",
+        "options": {
+            "A": "bring him some cheese",
+            "B": "tell the squire or the doctor to come and see him",
+            "C": "find the little boat",
+            "D": "show him the place of the treasure"
+        },
+        "answer": 1,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 147,
+        "question": "Dr. Livesey was on his way to ……………….. at the Admiral Benbow inn when Bill had his first stroke.",
+        "options": {
+            "A": "see Jim’s father",
+            "B": "have a drink",
+            "C": "look after Bill",
+            "D": "listen to Bill’s sea-songs"
+        },
+        "answer": 0,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 148,
+        "question": "When Tom said ‘I’d prefer to lose my hand than turn against my duty.’, we understood that ……………. .",
+        "options": {
+            "A": "Silver couldn’t corrupt Tom",
+            "B": "Tom refused to join the pirates",
+            "C": "Tom was not one of the honest men",
+            "D": "Both (A and B)"
+        },
+        "answer": 3,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 149,
+        "question": "……………….. was the one who cut the anchor from the ship and ………………… on board her.",
+        "options": {
+            "A": "Israel Hands / got rid of Jim",
+            "B": "Dr Livesey / pulled down the pirates’ flag",
+            "C": "Jim Hawkins / killed Israel Hands",
+            "D": "The young cabin-boy / put Israel Hands in irons"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "novel"
+    },
+    {
+        "Q": 150,
+        "question": "Captain Smollett said that they should attack the pirates ……….………… .",
+        "options": {
+            "A": "only after they had found the man of the island",
+            "B": "and then turn back to England",
+            "C": "when they had known which sailors were for the pirates and which were not",
+            "D": "after they had found the treasure"
+        },
+        "answer": 2,
+        "time": "24-25-2",
+        "type": "novel"
+    }
+]
