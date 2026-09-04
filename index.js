@@ -30,6 +30,50 @@ async function get_questions(){
 async function start() {
     await get_questions();
 
+    // sidebar
+
+    const side = document.getElementById("side");
+    const sidebtn = document.getElementById("sidebtn");
+    const hideside = document.getElementById("hideside");
+
+    sidebtn.addEventListener("click", event => {
+        side.classList.add("active")
+    })
+
+    hideside.addEventListener("click", event => {
+        side.classList.remove("active")
+    })
+
+    const select = document.getElementById("select");
+
+    select.addEventListener("change", event => {
+        const color = event.target.value;
+
+        if(color == "dodgerblue"){
+            document.documentElement.style.setProperty("--primary-color", color)
+        }
+
+        else if(color == "lightgreen"){
+            document.documentElement.style.setProperty("--primary-color", color)
+        }
+
+        else if(color == "tomato"){
+            document.documentElement.style.setProperty("--primary-color", color)
+        }
+
+        else if(color == "orange"){
+            document.documentElement.style.setProperty("--primary-color", color)
+        }
+
+        window.localStorage.setItem("theme", color);
+    })
+
+    const savedcolor = localStorage.getItem("theme");
+
+    if(savedcolor){
+        document.documentElement.style.setProperty("--primary-color", savedcolor)
+    }
+
     category.forEach(element => {
         const card = document.createElement("div");
         const h1 = document.createElement("h1")
