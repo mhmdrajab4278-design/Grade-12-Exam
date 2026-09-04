@@ -15,277 +15,248 @@ async function get_questions(){
 
     if(test == "25-26 T1"){
         questions = questions.filter(question => question.time == "25-26-1")
+        passages = passages[0].text
     }
 
     else if(test == "25-26 T2"){
         questions = questions.filter(question => question.time == "25-26-2")
+        passages = passages[1].text
     }
 
     else if(test == "24-25 T2"){
         questions = questions.filter(question => question.time == "24-25-2")
+        passages = passages[2].text
     }
 
-    console.log(questions)
+    console.log(passages)
 }
-async function start() {
+
+async function displaydata() {
     await get_questions();
+
+    // the top (passage and score)
+
+    const content = document.getElementById("content");
+
+    const cards = document.getElementById("cards")
+
+    const passage = document.getElementById("passage")
+    passage.textContent = passages;
+
+    content.prepend(passage);
+
+    const scoreEl = document.getElementById("score");
+    const scoreh1 = document.createElement("h1")
+    const inp = document.createElement("div");
+    const qans = document.createElement("div");
+    inp.id = "inp";
+    inp.style.display = "flex";
+    inp.style.justifyContent = "center";
+    inp.style.alignItems = "center";
+    inp.style.marginTop = "20px";
     
-    const card = document.getElementById("card");
-    const options = document.getElementById("options");
-    const btn1 = document.querySelectorAll(".btn1")
-    const num = document.getElementById("num-question");
-    const question = document.getElementById("question");
-    const opa = document.getElementById("opa")
-    const opb = document.getElementById("opb")
-    const opc = document.getElementById("opc")
-    const opd = document.getElementById("opd")
-    const optbtns = document.querySelectorAll(".op")
-    const a = document.getElementById("A")
-    const b = document.getElementById("B")
-    const c = document.getElementById("C")
-    const d = document.getElementById("D")
-    const nextbtn = document.getElementById("next");
-    const ansbtns = document.querySelectorAll(".btn");
-    let scoreEL = document.getElementById("score");
+
+    
+    scoreh1.textContent = "Your Score";
+
+    const scorenum = document.createElement("p");
+
+    let score = 0;
+    let answered = 0;
+    qans.textContent = `${answered}/50 Questions Answered`;
+    qans.style.marginTop = "10px"
+
+    inp.style.setProperty("--before-width", `${score}%`);
+
+
+    scorenum.textContent = `${score}%`;
+    scorenum.style.fontSize = "1.3em"
+
+    scoreEl.prepend(scoreh1)
+    inp.append(scorenum)
+    scoreEl.append(inp);
+    scoreEl.append(qans);
+    scoreEl.style.padding = "10px"
+
+
+
+    content.prepend(scoreEl)
+
+    // sidebar
+
     const side = document.getElementById("side");
     const sidebtn = document.getElementById("sidebtn");
     const hideside = document.getElementById("hideside");
-    const select = document.getElementById("select");
-    const head = document.getElementById("head");
-    const passagecolor = document.getElementsByClassName(".passage");
-
-    let currentquestion = 0;
-    let score = 0;
-    let x = 0;
-    let content = document.getElementById("content")
-
-
-    const passage = document.createElement("p");
-    passage.classList.add("passage")
-
-    if(test == "25-26 T1"){
-        passage.textContent = passages[0].text
-    }
-
-    else if(test == "25-26 T2"){
-        passage.textContent = passages[1].text
-    }
-    else if(test == "24-25 T2"){
-        passage.textContent = passages[2].text
-    }
-
-
-    function display_data(currentquestion){
-
-        if(questions[currentquestion].type == "passage"){
-            content.appendChild(passage)
-        }
-
-        else{
-            if(content.contains(passage)){
-                content.removeChild(passage)
-            }
-           
-        }
-
-        try{
-            const arr = ["A", "B", "C", "D"]
-            num.textContent = `Q-${x + 1}`;
-            question.textContent = questions[currentquestion].question;
-            opa.textContent = `${arr[0]}-${questions[currentquestion].options.A}`;
-            opb.textContent = `${arr[1]}-${questions[currentquestion].options.B}`;
-            opc.textContent = `${arr[2]}-${questions[currentquestion].options.C}`;
-            opd.textContent = `${arr[3]}-${questions[currentquestion].options.D}`;
-            scoreEL.textContent = `${score}/${questions.length}`
-        }
-
-        catch(error){
-            console.error(error)
-        } 
-
-    }
-
-    ansbtns.forEach((btn, i) => {
-        btn.addEventListener("click", event => {
-            let correctanswer = questions[currentquestion].answer;
-            currentquestion++;
-            console.log(correctanswer)
-            x++;
-
-            optbtns[correctanswer].style.backgroundColor = "lightgreen";
-            
-            optbtns.forEach((item, index) => {
-                if(index != correctanswer){
-                    item.style.backgroundColor = "tomato"
-                }
-            })
-
-            if(i == correctanswer){
-                score++;
-            }
-
-            scoreEL.textContent = `${score}/${questions.length}`
-
-            ansbtns.forEach(b => {
-                b.disabled = true;
-            })
-        })
-    })
-
-
-    nextbtn.addEventListener("click", event => {
-        console.log(currentquestion)
-        if(currentquestion >= questions.length){
-            question.textContent = "Done";
-            question.textContent += `\nYour score is: ${score}/${questions.length}`;
-            
-            num.style.display = "none"
-            optbtns.forEach(btn => {
-                btn.style.display = "none"
-            })
-
-            ansbtns.forEach(button => {
-                button.style.display = "none";
-            })
-
-            scoreEL.style.display = "none";
-            nextbtn.textContent = "Again"
-            nextbtn.addEventListener("click", event => {
-                window.location.reload();
-            })
-
-        }
-        else{
-            display_data(currentquestion);
-            optbtns.forEach((p) => {
-                p.style.backgroundColor = "";
-            })
-            ansbtns.forEach(b => {
-                b.disabled = false;
-            });
-        }
-    });
 
     sidebtn.addEventListener("click", event => {
-        side.classList.add("active");
+        side.classList.add("active")
     })
 
-    hideside.addEventListener("click", () => {
-        side.classList.remove("active");
-    });
+    hideside.addEventListener("click", event => {
+        side.classList.remove("active")
+    })
+
+    const select = document.getElementById("select");
 
     select.addEventListener("change", event => {
         const color = event.target.value;
 
-
-
         if(color == "dodgerblue"){
-            card.style.borderColor = "";
-            options.style.borderColor = "";
-            side.style.borderColor = "";
-            select.style.backgroundColor = ""
-            select.style.borderColor = ""
-            head.style.backgroundColor = "";
-            passage.style.borderColor = "";
-
-            btn1.forEach(btn => {
-                btn.style.backgroundColor = "";
-                btn.style.borderColor = ""
-            })
-
-            ansbtns.forEach(btn => {
-                btn.style.backgroundColor = "";
-                btn.style.borderColor = ""
-            })
+            document.documentElement.style.setProperty("--primary-color", color)
         }
 
         else if(color == "lightgreen"){
-            card.style.borderColor = "lightgreen";
-            options.style.borderColor = "lightgreen";
-            side.style.borderColor = "lightgreen";
-            select.style.backgroundColor = "lightgreen"
-            select.style.borderColor = "lightgreen"
-            head.style.backgroundColor = "lightgreen";
-            passage.style.borderColor = "lightgreen";
-
-            btn1.forEach(btn => {
-                btn.style.backgroundColor = "lightgreen";
-                btn.style.borderColor = "lightgreen"
-            })
-
-            ansbtns.forEach(btn => {
-                btn.style.backgroundColor = "lightgreen";
-                btn.style.borderColor = "lightgreen"
-            })
-        }
-
-        else if(color == "Orange"){
-            card.style.borderColor = "Orange";
-            options.style.borderColor = "Orange";
-            side.style.borderColor = "Orange";
-            select.style.backgroundColor = "orange"
-            select.style.borderColor = "orange"
-            head.style.backgroundColor = "orange";
-            passage.style.borderColor = "orange";
-
-            btn1.forEach(btn => {
-                btn.style.backgroundColor = "Orange";
-                btn.style.borderColor = "Orange"
-            })
-
-            ansbtns.forEach(btn => {
-                btn.style.backgroundColor = "Orange";
-                btn.style.borderColor = "Orange"
-            })
+            document.documentElement.style.setProperty("--primary-color", color)
         }
 
         else if(color == "tomato"){
-            card.style.borderColor = "tomato";
-            options.style.borderColor = "tomato";
-            side.style.borderColor = "tomato";
-            select.style.backgroundColor = "tomato"
-            select.style.borderColor = "tomato";
-            head.style.backgroundColor = "tomato";
-            passage.style.borderColor = "tomato";
-
-            btn1.forEach(btn => {
-                btn.style.backgroundColor = "tomato";
-                btn.style.borderColor = "tomato"
-            })
-
-            ansbtns.forEach(btn => {
-                btn.style.backgroundColor = "tomato";
-                btn.style.borderColor = "tomato"
-            })
+            document.documentElement.style.setProperty("--primary-color", color)
         }
 
-        localStorage.setItem("themeColor", color)
+        else if(color == "orange"){
+            document.documentElement.style.setProperty("--primary-color", color)
+        }
+
+        window.localStorage.setItem("theme", color);
     })
 
-    const savedColor = localStorage.getItem("themeColor");
+    const savedcolor = localStorage.getItem("theme");
 
-    if(savedColor){
-        card.style.borderColor = savedColor;
-        options.style.borderColor = savedColor;
-        side.style.borderColor = savedColor;
-        select.style.backgroundColor = savedColor
-        select.style.borderColor = savedColor
-        head.style.backgroundColor = savedColor;
-        passage.style.borderColor = savedColor;
-
-        btn1.forEach(button => {
-            button.style.backgroundColor = savedColor;
-            button.style.borderColor = savedColor
-        });
-
-        ansbtns.forEach(button => {
-            button.style.backgroundColor = savedColor;
-            button.style.borderColor = savedColor;
-        });
+    if(savedcolor){
+        document.documentElement.style.setProperty("--primary-color", savedcolor)
     }
 
-    display_data(0)
-    display_passage()
+    questions.forEach((q, index) => {
+
+        /*
+        <div class="card">
+            <h2 id="num-question">Q0</h2>
+            <p id="question">Whats Your name?</p>
+            <div id="options">
+                <p id="opa" class="op">A</p>
+                <p id="opb" class="op">B</p>
+                <p id="opc" class="op">C</p>
+                <p id="opd" class="op">D</p>
+            </div>
+            <div id="answers">
+                <button id="A" class="btn" class="btn1"><i class="fa-solid fa-font" style="color: black;"></i></button>
+                <button id="B" class="btn" class="btn1"><i class="fa-solid fa-b" style="color: black;"></i></button>
+                <button id="C" class="btn" class="btn1"><i class="fa-solid fa-c" style="color: black"></i></button>
+                <button id="D" class="btn"  class="btn1"><i class="fa-solid fa-d" style="color: black;"></i></button>
+            </div>
+            <div id="btm">
+                <p id="score"></p>
+                <button id="next" class="btn1">Next</button>
+            </div>
+
+        </div>
+        */
+        const card = document.createElement("div");
+        const slides = document.getElementById("slides")
+        card.classList.add("card");
+
+        const num_question = document.createElement("h1");
+        
+        const question = document.createElement("p")
+
+        const options = document.createElement("div");
+        options.classList.add("options")
+        const answers = document.createElement("div");
+        const btm = document.createElement("div");
+        btm.classList.add("btm")
+
+        const check = document.createElement("button");
+        check.classList.add("check");
+        check.textContent = "Answer";
+        btm.appendChild(check)
+
+        answers.classList.add("ans")
+
+        const opa = document.createElement("p")
+        opa.textContent = `A-${q.options.A}`
+        options.appendChild(opa)
+        const opb = document.createElement("p")
+        opb.textContent = `B-${q.options.B}`
+        options.appendChild(opb)
+        const opc = document.createElement("p")
+        opc.textContent = `C-${q.options.C}`
+        options.appendChild(opc)
+        const opd = document.createElement("p")
+        opd.textContent = `D-${q.options.D}`
+        options.appendChild(opd)
+
+        opa.classList.add("ops")
+        opb.classList.add("ops")
+        opc.classList.add("ops")
+        opd.classList.add("ops")
+
+        const ana = document.createElement("button")
+        ana.textContent = `A`
+        ana.classList.add("answers")
+        answers.appendChild(ana)
+        const anb = document.createElement("button")
+        anb.textContent = `B`
+        anb.classList.add("answers")
+        answers.appendChild(anb)
+        const anc = document.createElement("button")
+        anc.textContent = `C`
+        anc.classList.add("answers")
+        answers.appendChild(anc)
+        const and = document.createElement("button")
+        and.textContent = `D`;
+        and.classList.add("answers")
+        answers.appendChild(and)
+
+
+        num_question.textContent = `Q${index+1}`;
+        question.textContent = q.question;
+
+        card.appendChild(num_question);
+        card.appendChild(question);
+        card.appendChild(options);
+        card.appendChild(answers);
+        card.appendChild(btm);
+
+        slides.appendChild(card);
+         
+        // check variables
+        const correctanswer = q.answer;
+        const ans = answers.querySelectorAll(".answers");
+        const ops = options.querySelectorAll(".ops")
+        console.log(correctanswer)
+        console.log(ans)
+
+
+        ans.forEach((btn, i) => {
+            btn.addEventListener("click", event => {
+                if(i == correctanswer){
+                    ops[correctanswer].style.backgroundColor = "lightgreen";
+                    check.textContent = "Right";
+                    check.style.backgroundColor = "lightgreen";
+                    score += 2;
+                    scorenum.textContent = `${score}%`;
+                    inp.style.setProperty("--before-width", `${score}%`);
+                    answered++;
+                    qans.textContent = `${answered}/50 Questions Answered`
+                }
+
+                else if(i != correctanswer){
+                    ops[correctanswer].style.backgroundColor = "lightgreen";
+                    ops[i].style.backgroundColor = "tomato";
+                    check.textContent = "Wrong";
+                    check.style.backgroundColor = "tomato";
+                    answered++;
+                    qans.textContent = `${answered}/50 Questions Answered`
+                }
+
+                ans.forEach(btn => {
+                    btn.disabled = true
+                })
+
+            })
+        })
+
+    })
 }
 
-start();
+displaydata()
