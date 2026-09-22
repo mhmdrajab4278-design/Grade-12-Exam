@@ -42,14 +42,31 @@ body{
 }
 
 #passage{
+    border-top: none;
     border: 2px solid red;
     width: min(90%, 600px);
-    margin-top: 20px;
     margin-bottom: 20px;
-    padding: 20px;
     top: 700px;
     border: 4px solid var(--primary-color);
     border-radius: 25px;
+}
+
+#showbtns{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+#score{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: min(90%, 600px);
+    border: 5px solid var(--primary-color);
+    border-radius: 15px;
+    height: 200px;
+    border-bottom: none;
 }
 
 .cards{
@@ -237,15 +254,6 @@ body{
     border-radius: 15px;
 }
 
-#score{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-width: min(90%, 400px);
-    border: 5px solid var(--primary-color);
-    border-radius: 15px;
-    height: 200px;
-}
 
 #inp {
     --before-width: 50%;
