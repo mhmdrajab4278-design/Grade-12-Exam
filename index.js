@@ -46,54 +46,57 @@ async function start() {
 
     const select = document.getElementById("select");
 
-    select.addEventListener("change", event => {
-        const color = event.target.value;
-
-        if(color == "dodgerblue"){
-            document.documentElement.style.setProperty("--primary-color", color)
-        }
-
-        else if(color == "lightgreen"){
-            document.documentElement.style.setProperty("--primary-color", color)
-        }
-
-        else if(color == "tomato"){
-            document.documentElement.style.setProperty("--primary-color", color)
-        }
-
-        else if(color == "orange"){
-            document.documentElement.style.setProperty("--primary-color", color)
-        }
-
-        window.localStorage.setItem("theme", color);
-    })
-
-    const savedcolor = localStorage.getItem("theme");
-
-    if(savedcolor){
-        document.documentElement.style.setProperty("--primary-color", savedcolor)
-    }
-
+    
     category.forEach(element => {
         const card = document.createElement("div");
         const h1 = document.createElement("h1")
         const p1 = document.createElement("p")
         const p2 = document.createElement("p")
-
+        
         h1.textContent = element.name;
         p1.textContent = element.num;
         p2.textContent = element.subject;
-
+        
         card.appendChild(h1)
         card.appendChild(p1)
         card.appendChild(p2)
         card.classList.add("card");
-
+        
         cards.appendChild(card)
-
+        
         card.addEventListener("click", event => {
             window.location.href = `index2.html?test=${element.name}`;
         })
+
+        const allcards = document.querySelectorAll(".card")
+
+        select.addEventListener("change", event => {
+            const color = event.target.value;
+    
+            if(color == "dodgerblue"){
+                document.documentElement.style.setProperty("--primary-color", color)
+            }
+    
+            else if(color == "lightgreen"){
+                document.documentElement.style.setProperty("--primary-color", color)
+            }
+    
+            else if(color == "tomato"){
+                document.documentElement.style.setProperty("--primary-color", color)
+            }
+    
+            else if(color == "orange"){
+                document.documentElement.style.setProperty("--primary-color", color)
+            }
+    
+            window.localStorage.setItem("theme", color);
+        })
+    
+        const savedcolor = localStorage.getItem("theme");
+    
+        if(savedcolor){
+            document.documentElement.style.setProperty("--primary-color", savedcolor)
+        }
     })
 }
 
