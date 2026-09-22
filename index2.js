@@ -38,10 +38,12 @@ async function displaydata() {
 
     const content = document.getElementById("content");
 
-    const cards = document.getElementById("cards")
+    const cards = document.getElementById("cards");
 
-    const passage = document.getElementById("passage")
-    passage.textContent = passages;
+    const passage = document.getElementById("passage");
+    const showpsg = document.getElementById("showpass");
+    const hidepsg = document.getElementById("hidepass");
+    passage.textContent = '';
 
     content.prepend(passage);
 
@@ -70,17 +72,29 @@ async function displaydata() {
 
 
     scorenum.textContent = `${score}%`;
-    scorenum.style.fontSize = "1.3em"
+    scorenum.style.fontSize = "1.3em";
 
-    scoreEl.prepend(scoreh1)
     inp.append(scorenum)
-    scoreEl.append(inp);
-    scoreEl.append(qans);
+    scoreEl.prepend(qans);
+    scoreEl.prepend(inp);
+    scoreEl.prepend(scoreh1)
     scoreEl.style.padding = "10px"
 
-
-
     content.prepend(scoreEl)
+
+    showpsg.addEventListener("click", event => {
+        passage.textContent = passages;
+        passage.style.padding = "10px 20px";
+        showpsg.style.display = "none";
+        hidepsg.style.display = "flex";
+    })
+
+    hidepsg.addEventListener("click", event => {
+        passage.textContent = '';
+        showpsg.style.display = "flex";
+        hidepsg.style.display = "none";
+        passage.style.padding = "0";
+    })
 
     // sidebar
 
