@@ -2,6 +2,8 @@
 
 :root{
     --primary-color: dodgerblue;
+    --second-color: rgb(9, 86, 162);
+    --white-color: white;
 }
 
 * {
@@ -48,14 +50,18 @@ body{
 
 #cards{
     display: flex;
-    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+
+    flex-direction: column;
     gap: 10px;
     padding: 40px;
+    width: 100vw;
 }
 
 .card{
     width: 200px;
-    height: 200px;
+    height: auto;
     border: 3px var(--primary-color) solid;
     background-color: var(--primary-color);
     border-radius: 15px;
@@ -64,6 +70,7 @@ body{
     flex-direction: column;
     justify-content: start;
     align-items: center;
+    box-shadow: 0 0 7px gray;
     transition: .5s;
 }
 
@@ -73,14 +80,14 @@ body{
 
 .card:hover{
     background-color: var(--primary-color);
-
-    transform: scale(1.03);
+    transform: translateX(10px);
+    
 }
 
 
 #side{
     position: fixed;
-    background: white;
+    background: var(--white-color);
     width: 0;
     height: 100%;
     margin: 0;
@@ -88,6 +95,7 @@ body{
     top: 0;
     overflow: hidden;
     transition: .5s;
+    
     z-index: 101;
 }
 
@@ -96,23 +104,23 @@ body{
     justify-content: space-between;
     align-items: start;
     width: min(40%, 300px);
-    border: 4px solid var(--primary-color);
+    border-right: 5px solid var(--primary-color);
     padding: 3px;
     z-index: 101;
 }
 
 #sidebtn{
     margin: 20px;
-    background-color: white;
+    background-color: var(--primary-color);
     border-radius: 15px;
-    border: 3px solid var(--primary-color);
+    border: 3px solid var(--b1-color);
     font-size: 1em;
     padding: 5px;
     cursor: pointer;
 }
 
 #hideside{
-    background-color: var(--primary-color);
+    background-color: var(--b1-color);
     font-size: 1em;
     padding: 3px 5px;
     border-radius: 15px;
@@ -133,11 +141,11 @@ body{
     border-radius: 15px;
     padding: 3px;
     background-color: var(--primary-color);
-    border: 2px solid var(--primary-color);
+    border: 2px solid var(--b1-color);
 }
 
 #select #blue{
-    background-color: var(--primary-color);
+    background-color: dodgerblue;
     border-radius: 15px;
 }
 
