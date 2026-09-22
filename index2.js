@@ -126,7 +126,27 @@ async function displaydata() {
         document.documentElement.style.setProperty("--primary-color", savedcolor)
     }
 
+    // the h and v
+
+    const vertibtn = document.getElementById("vertibtn")
+    const horibtn = document.getElementById("horibtn")
+
+    horibtn.addEventListener("click", event => {
+        horibtn.style.display = "none";
+        vertibtn.style.display = "flex";
+        cards.classList.add("cards2");
+        cards.classList.remove("cards");
+    })
+
+    vertibtn.addEventListener("click", event => {
+        vertibtn.style.display = "none";
+        horibtn.style.display = "flex";
+        cards.classList.remove("cards2");
+        cards.classList.add("cards");
+    })
+    
     questions.forEach((q, index) => {
+
 
         /*
         <div class="card">
@@ -217,7 +237,7 @@ async function displaydata() {
         card.appendChild(answers);
         card.appendChild(btm);
 
-        slides.appendChild(card);
+        cards.appendChild(card);
          
         // check variables
         const correctanswer = q.answer;
