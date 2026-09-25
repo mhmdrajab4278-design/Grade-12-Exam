@@ -2,6 +2,9 @@
 const params = new URLSearchParams(window.location.search)
 
 const test = params.get("test")
+const type = params.get("type");
+console.log(type)
+console.log(test)
 
 let questions = null;
 let passages = null;
@@ -28,12 +31,38 @@ async function get_questions(){
         passages = passages[2].text
     }
 
-    console.log(passages)
+    else if(test == "Capitals"){
+        questions = questions.filter(question => question.type == "capitals")
+        passages = passages[2].text
+    }
+
 }
+
+function shuffle(questions) {
+    const shuffled = questions.sort(() => Math.random() - 0.5);
+}
+
+
 
 async function displaydata() {
     await get_questions();
+    shuffle(questions);
+    let newquestions;
+    if (type == "squiz"){
+        newquestions = questions.slice(0, 5)
+    } 
+    else if (type == "quiz"){
+        newquestions = questions.slice(0, 10)
+    }
 
+    else if (type == "lquiz"){
+        newquestions = questions.slice(0, 20);
+    }
+
+    else if (type == "fexam"){
+        newquestions = questions;
+    }
+        
     // the top (passage and score)
 
     const content = document.getElementById("content");
@@ -65,7 +94,7 @@ async function displaydata() {
 
     let score = 0;
     let answered = 0;
-    qans.textContent = `${answered}/50 Questions Answered`;
+    qans.textContent = `${answered}/${newquestions.length} Questions Answered`;
     qans.style.marginTop = "10px"
 
     inp.style.setProperty("--before-width", `${score}%`);
@@ -95,6 +124,11 @@ async function displaydata() {
         hidepsg.style.display = "none";
         passage.style.padding = "0";
     })
+
+    if(test == "Capitals"){
+        showpsg.style.display = "none"
+        hidepsg.style.display = "none"
+    }
 
     // sidebar
 
@@ -159,7 +193,7 @@ async function displaydata() {
         cards.classList.add("cards");
     })
     
-    questions.forEach((q, index) => {
+    newquestions.forEach((q, index) => {
 
 
         /*
@@ -257,8 +291,6 @@ async function displaydata() {
         const correctanswer = q.answer;
         const ans = answers.querySelectorAll(".answers");
         const ops = options.querySelectorAll(".ops")
-        console.log(correctanswer)
-        console.log(ans)
 
 
         ans.forEach((btn, i) => {
@@ -267,11 +299,11 @@ async function displaydata() {
                     ops[correctanswer].style.backgroundColor = "lightgreen";
                     check.textContent = "Right";
                     check.style.backgroundColor = "lightgreen";
-                    score += 2;
-                    scorenum.textContent = `${score}%`;
+                    score += (1/newquestions.length)*100;
+                    scorenum.textContent = `${score.toFixed(1)}%`;
                     inp.style.setProperty("--before-width", `${score}%`);
                     answered++;
-                    qans.textContent = `${answered}/50 Questions Answered`
+                    qans.textContent = `${answered}/${newquestions.length} Questions Answered`
                 }
 
                 else if(i != correctanswer){
@@ -280,7 +312,7 @@ async function displaydata() {
                     check.textContent = "Wrong";
                     check.style.backgroundColor = "tomato";
                     answered++;
-                    qans.textContent = `${answered}/50 Questions Answered`
+                    qans.textContent = `${answered}/${newquestions.length} Questions Answered`
                 }
 
                 ans.forEach(btn => {
@@ -294,3 +326,24 @@ async function displaydata() {
 }
 
 displaydata()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
