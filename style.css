@@ -4,6 +4,9 @@
     --primary-color: dodgerblue;
     --second-color: rgb(9, 86, 162);
     --white-color: white;
+    --black-color: black;
+    --white-back: white;
+    --black-back: black;
 }
 
 * {
@@ -23,9 +26,11 @@ body{
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    color: var(--black-color);
     height: min(10%, 80px);
     background: var(--primary-color);
     padding: 0 20px;
+    color: var(--black-color);
 }
 
 #all{
@@ -52,7 +57,6 @@ body{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-
     flex-direction: column;
     gap: 10px;
     padding: 40px;
@@ -72,6 +76,7 @@ body{
     align-items: center;
     box-shadow: 0 0 7px gray;
     transition: .5s;
+    color: var(--black-color);
 }
 
 .card *{
@@ -95,7 +100,7 @@ body{
     top: 0;
     overflow: hidden;
     transition: .5s;
-    
+    color: var(--black-color);
     z-index: 101;
 }
 
@@ -162,4 +167,50 @@ body{
 #select #red{
     background-color: tomato;
     border-radius: 15px;
+}
+
+.foot{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: var(--primary-color);
+    z-index: 99;;
+    height: 0;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.active-foot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 60%;
+    padding-top: 20px;
+    box-shadow: 0 0 15px var(--primary-color);
+}
+
+#quiz-form{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.rdiv{
+    display: flex;
+    font-size: larger;
+}
+
+.rdiv * {
+    margin-left: 15px;
+}
+
+#next, #cancel{
+    border-radius: 15px;
+    padding: 0 10px;
+    margin-top: 20px;
+    font-size: 2em;
+    transition: .5s;
+    border: none;
 }
