@@ -1949,5 +1949,2357 @@
         "answer": 2,
         "time": "24-25-2",
         "type": "novel"
+    },
+    {
+        "Q": 1,
+        "question": "What is the capital of Kurdistan?",
+        "options": {
+            "A": "Ankara",
+            "B": "Tehran",
+            "C": "Baghdad",
+            "D": "Amed"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 1,
+        "question": "What is the capital of Afghanistan?",
+        "options": {
+            "A": "Kabul",
+            "B": "Herat",
+            "C": "Kandahar",
+            "D": "Mazar-i-Sharif"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 2,
+        "question": "What is the capital of Albania?",
+        "options": {
+            "A": "Durrës",
+            "B": "Tirana",
+            "C": "Shkodër",
+            "D": "Vlorë"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 3,
+        "question": "What is the capital of Algeria?",
+        "options": {
+            "A": "Oran",
+            "B": "Constantine",
+            "C": "Algiers",
+            "D": "Annaba"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 4,
+        "question": "What is the capital of Andorra?",
+        "options": {
+            "A": "Andorra la Vella",
+            "B": "Escaldes-Engordany",
+            "C": "Canillo",
+            "D": "Encamp"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 5,
+        "question": "What is the capital of Angola?",
+        "options": {
+            "A": "Huambo",
+            "B": "Lobito",
+            "C": "Benguela",
+            "D": "Luanda"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 6,
+        "question": "What is the capital of Antigua and Barbuda?",
+        "options": {
+            "A": "St. John's",
+            "B": "Codrington",
+            "C": "Liberta",
+            "D": "All Saints"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 7,
+        "question": "What is the capital of Argentina?",
+        "options": {
+            "A": "Córdoba",
+            "B": "Buenos Aires",
+            "C": "Rosario",
+            "D": "Mendoza"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 8,
+        "question": "What is the capital of Armenia?",
+        "options": {
+            "A": "Gyumri",
+            "B": "Vanadzor",
+            "C": "Yerevan",
+            "D": "Hrazdan"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 9,
+        "question": "What is the capital of Australia?",
+        "options": {
+            "A": "Sydney",
+            "B": "Melbourne",
+            "C": "Brisbane",
+            "D": "Canberra"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 10,
+        "question": "What is the capital of Austria?",
+        "options": {
+            "A": "Salzburg",
+            "B": "Vienna",
+            "C": "Graz",
+            "D": "Innsbruck"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 11,
+        "question": "What is the capital of Azerbaijan?",
+        "options": {
+            "A": "Ganja",
+            "B": "Sumqayit",
+            "C": "Baku",
+            "D": "Shaki"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 12,
+        "question": "What is the capital of the Bahamas?",
+        "options": {
+            "A": "Nassau",
+            "B": "Freeport",
+            "C": "Marsh Harbour",
+            "D": "George Town"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 13,
+        "question": "What is the capital of Bahrain?",
+        "options": {
+            "A": "Riffa",
+            "B": "Muharraq",
+            "C": "Hamad Town",
+            "D": "Manama"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 14,
+        "question": "What is the capital of Bangladesh?",
+        "options": {
+            "A": "Chittagong",
+            "B": "Dhaka",
+            "C": "Khulna",
+            "D": "Rajshahi"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 15,
+        "question": "What is the capital of Barbados?",
+        "options": {
+            "A": "Bridgetown",
+            "B": "Speightstown",
+            "C": "Oistins",
+            "D": "Holetown"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 16,
+        "question": "What is the capital of Belarus?",
+        "options": {
+            "A": "Gomel",
+            "B": "Brest",
+            "C": "Minsk",
+            "D": "Vitebsk"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 17,
+        "question": "What is the capital of Belgium?",
+        "options": {
+            "A": "Antwerp",
+            "B": "Bruges",
+            "C": "Ghent",
+            "D": "Brussels"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 18,
+        "question": "What is the capital of Belize?",
+        "options": {
+            "A": "Belmopan",
+            "B": "Belize City",
+            "C": "San Ignacio",
+            "D": "Orange Walk"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 19,
+        "question": "What is the capital of Benin?",
+        "options": {
+            "A": "Cotonou",
+            "B": "Porto-Novo",
+            "C": "Abomey",
+            "D": "Parakou"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 20,
+        "question": "What is the capital of Bhutan?",
+        "options": {
+            "A": "Paro",
+            "B": "Punakha",
+            "C": "Thimphu",
+            "D": "Phuntsholing"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 21,
+        "question": "What is the capital of Bolivia?",
+        "options": {
+            "A": "La Paz",
+            "B": "Santa Cruz de la Sierra",
+            "C": "Cochabamba",
+            "D": "Sucre"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 22,
+        "question": "What is the capital of Bosnia and Herzegovina?",
+        "options": {
+            "A": "Sarajevo",
+            "B": "Banja Luka",
+            "C": "Mostar",
+            "D": "Tuzla"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 23,
+        "question": "What is the capital of Botswana?",
+        "options": {
+            "A": "Francistown",
+            "B": "Gaborone",
+            "C": "Maun",
+            "D": "Molepolole"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 24,
+        "question": "What is the capital of Brazil?",
+        "options": {
+            "A": "São Paulo",
+            "B": "Rio de Janeiro",
+            "C": "Brasília",
+            "D": "Salvador"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 25,
+        "question": "What is the capital of Brunei?",
+        "options": {
+            "A": "Bandar Seri Begawan",
+            "B": "Kuala Belait",
+            "C": "Seria",
+            "D": "Tutong"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 26,
+        "question": "What is the capital of Bulgaria?",
+        "options": {
+            "A": "Plovdiv",
+            "B": "Varna",
+            "C": "Burgas",
+            "D": "Sofia"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 27,
+        "question": "What is the capital of Burkina Faso?",
+        "options": {
+            "A": "Bobo-Dioulasso",
+            "B": "Ouagadougou",
+            "C": "Koudougou",
+            "D": "Banfora"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 28,
+        "question": "What is the capital of Burundi?",
+        "options": {
+            "A": "Bujumbura",
+            "B": "Ngozi",
+            "C": "Gitega",
+            "D": "Muyinga"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 29,
+        "question": "What is the capital of Cabo Verde?",
+        "options": {
+            "A": "Praia",
+            "B": "Mindelo",
+            "C": "Santa Maria",
+            "D": "Assomada"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 30,
+        "question": "What is the capital of Cambodia?",
+        "options": {
+            "A": "Siem Reap",
+            "B": "Battambang",
+            "C": "Phnom Penh",
+            "D": "Sihanoukville"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 31,
+        "question": "What is the capital of Cameroon?",
+        "options": {
+            "A": "Douala",
+            "B": "Yaoundé",
+            "C": "Bamenda",
+            "D": "Garoua"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 32,
+        "question": "What is the capital of Canada?",
+        "options": {
+            "A": "Toronto",
+            "B": "Vancouver",
+            "C": "Montreal",
+            "D": "Ottawa"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 33,
+        "question": "What is the capital of the Central African Republic?",
+        "options": {
+            "A": "Bangui",
+            "B": "Berbérati",
+            "C": "Bambari",
+            "D": "Bouar"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 34,
+        "question": "What is the capital of Chad?",
+        "options": {
+            "A": "Moundou",
+            "B": "Sarh",
+            "C": "N'Djamena",
+            "D": "Abéché"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 35,
+        "question": "What is the capital of Chile?",
+        "options": {
+            "A": "Valparaíso",
+            "B": "Concepción",
+            "C": "Antofagasta",
+            "D": "Santiago"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 36,
+        "question": "What is the capital of China?",
+        "options": {
+            "A": "Beijing",
+            "B": "Shanghai",
+            "C": "Guangzhou",
+            "D": "Shenzhen"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 37,
+        "question": "What is the capital of Colombia?",
+        "options": {
+            "A": "Medellín",
+            "B": "Bogotá",
+            "C": "Cali",
+            "D": "Cartagena"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 38,
+        "question": "What is the capital of Comoros?",
+        "options": {
+            "A": "Mutsamudu",
+            "B": "Fomboni",
+            "C": "Moroni",
+            "D": "Domoni"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 39,
+        "question": "What is the capital of the Democratic Republic of the Congo?",
+        "options": {
+            "A": "Kinshasa",
+            "B": "Lubumbashi",
+            "C": "Goma",
+            "D": "Kisangani"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 40,
+        "question": "What is the capital of the Republic of the Congo?",
+        "options": {
+            "A": "Pointe-Noire",
+            "B": "Dolisie",
+            "C": "Ouesso",
+            "D": "Brazzaville"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 41,
+        "question": "What is the capital of Costa Rica?",
+        "options": {
+            "A": "Liberia",
+            "B": "San José",
+            "C": "Alajuela",
+            "D": "Cartago"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 42,
+        "question": "What is the capital of Côte d'Ivoire?",
+        "options": {
+            "A": "Abidjan",
+            "B": "Bouaké",
+            "C": "Yamoussoukro",
+            "D": "Korhogo"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 43,
+        "question": "What is the capital of Croatia?",
+        "options": {
+            "A": "Split",
+            "B": "Rijeka",
+            "C": "Osijek",
+            "D": "Zagreb"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 44,
+        "question": "What is the capital of Cuba?",
+        "options": {
+            "A": "Havana",
+            "B": "Santiago de Cuba",
+            "C": "Camagüey",
+            "D": "Holguín"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 45,
+        "question": "What is the capital of Cyprus?",
+        "options": {
+            "A": "Limassol",
+            "B": "Larnaca",
+            "C": "Nicosia",
+            "D": "Paphos"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 46,
+        "question": "What is the capital of Czechia?",
+        "options": {
+            "A": "Brno",
+            "B": "Prague",
+            "C": "Ostrava",
+            "D": "Plzeň"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 47,
+        "question": "What is the capital of Denmark?",
+        "options": {
+            "A": "Aarhus",
+            "B": "Odense",
+            "C": "Aalborg",
+            "D": "Copenhagen"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 48,
+        "question": "What is the capital of Djibouti?",
+        "options": {
+            "A": "Djibouti",
+            "B": "Ali Sabieh",
+            "C": "Tadjoura",
+            "D": "Obock"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 49,
+        "question": "What is the capital of Dominica?",
+        "options": {
+            "A": "Portsmouth",
+            "B": "Roseau",
+            "C": "Marigot",
+            "D": "Mahaut"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 50,
+        "question": "What is the capital of the Dominican Republic?",
+        "options": {
+            "A": "Santiago de los Caballeros",
+            "B": "La Romana",
+            "C": "Santo Domingo",
+            "D": "Puerto Plata"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 51,
+        "question": "What is the capital of Ecuador?",
+        "options": {
+            "A": "Quito",
+            "B": "Guayaquil",
+            "C": "Cuenca",
+            "D": "Loja"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 52,
+        "question": "What is the capital of Egypt?",
+        "options": {
+            "A": "Alexandria",
+            "B": "Giza",
+            "C": "Luxor",
+            "D": "Cairo"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 53,
+        "question": "What is the capital of El Salvador?",
+        "options": {
+            "A": "Santa Ana",
+            "B": "San Salvador",
+            "C": "San Miguel",
+            "D": "Sonsonate"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 54,
+        "question": "What is the capital of Equatorial Guinea?",
+        "options": {
+            "A": "Bata",
+            "B": "Ebebiyin",
+            "C": "Malabo",
+            "D": "Mongomo"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 55,
+        "question": "What is the capital of Eritrea?",
+        "options": {
+            "A": "Asmara",
+            "B": "Massawa",
+            "C": "Keren",
+            "D": "Assab"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 56,
+        "question": "What is the capital of Estonia?",
+        "options": {
+            "A": "Tartu",
+            "B": "Narva",
+            "C": "Pärnu",
+            "D": "Tallinn"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 57,
+        "question": "What is the capital of Eswatini?",
+        "options": {
+            "A": "Manzini",
+            "B": "Mbabane",
+            "C": "Lobamba",
+            "D": "Siteki"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 58,
+        "question": "What is the capital of Ethiopia?",
+        "options": {
+            "A": "Gondar",
+            "B": "Dire Dawa",
+            "C": "Addis Ababa",
+            "D": "Mekelle"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 59,
+        "question": "What is the capital of Fiji?",
+        "options": {
+            "A": "Suva",
+            "B": "Nadi",
+            "C": "Lautoka",
+            "D": "Labasa"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 60,
+        "question": "What is the capital of Finland?",
+        "options": {
+            "A": "Tampere",
+            "B": "Turku",
+            "C": "Oulu",
+            "D": "Helsinki"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 61,
+        "question": "What is the capital of France?",
+        "options": {
+            "A": "Paris",
+            "B": "Lyon",
+            "C": "Marseille",
+            "D": "Nice"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 62,
+        "question": "What is the capital of Gabon?",
+        "options": {
+            "A": "Port-Gentil",
+            "B": "Franceville",
+            "C": "Libreville",
+            "D": "Oyem"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 63,
+        "question": "What is the capital of the Gambia?",
+        "options": {
+            "A": "Serekunda",
+            "B": "Banjul",
+            "C": "Brikama",
+            "D": "Bakau"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 64,
+        "question": "What is the capital of Georgia?",
+        "options": {
+            "A": "Batumi",
+            "B": "Kutaisi",
+            "C": "Rustavi",
+            "D": "Tbilisi"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 65,
+        "question": "What is the capital of Germany?",
+        "options": {
+            "A": "Berlin",
+            "B": "Munich",
+            "C": "Hamburg",
+            "D": "Frankfurt"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 66,
+        "question": "What is the capital of Ghana?",
+        "options": {
+            "A": "Kumasi",
+            "B": "Tamale",
+            "C": "Accra",
+            "D": "Takoradi"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 67,
+        "question": "What is the capital of Greece?",
+        "options": {
+            "A": "Thessaloniki",
+            "B": "Athens",
+            "C": "Patras",
+            "D": "Heraklion"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 68,
+        "question": "What is the capital of Grenada?",
+        "options": {
+            "A": "St. George's",
+            "B": "Gouyave",
+            "C": "Grenville",
+            "D": "Victoria"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 69,
+        "question": "What is the capital of Guatemala?",
+        "options": {
+            "A": "Quetzaltenango",
+            "B": "Antigua Guatemala",
+            "C": "Escuintla",
+            "D": "Guatemala City"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 70,
+        "question": "What is the capital of Guinea?",
+        "options": {
+            "A": "Kankan",
+            "B": "Conakry",
+            "C": "Kindia",
+            "D": "Labé"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 71,
+        "question": "What is the capital of Guinea-Bissau?",
+        "options": {
+            "A": "Bissau",
+            "B": "Bafatá",
+            "C": "Gabú",
+            "D": "Cacheu"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 72,
+        "question": "What is the capital of Guyana?",
+        "options": {
+            "A": "Linden",
+            "B": "New Amsterdam",
+            "C": "Georgetown",
+            "D": "Bartica"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 73,
+        "question": "What is the capital of Haiti?",
+        "options": {
+            "A": "Cap-Haïtien",
+            "B": "Port-au-Prince",
+            "C": "Gonaïves",
+            "D": "Jacmel"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 74,
+        "question": "What is the capital of Honduras?",
+        "options": {
+            "A": "San Pedro Sula",
+            "B": "La Ceiba",
+            "C": "Comayagua",
+            "D": "Tegucigalpa"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 75,
+        "question": "What is the capital of Hungary?",
+        "options": {
+            "A": "Budapest",
+            "B": "Debrecen",
+            "C": "Szeged",
+            "D": "Miskolc"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 76,
+        "question": "What is the capital of Iceland?",
+        "options": {
+            "A": "Akureyri",
+            "B": "Kópavogur",
+            "C": "Reykjavík",
+            "D": "Hafnarfjörður"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 77,
+        "question": "What is the capital of India?",
+        "options": {
+            "A": "Mumbai",
+            "B": "New Delhi",
+            "C": "Kolkata",
+            "D": "Bengaluru"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 78,
+        "question": "What is the capital of Indonesia?",
+        "options": {
+            "A": "Jakarta",
+            "B": "Surabaya",
+            "C": "Bandung",
+            "D": "Medan"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 79,
+        "question": "What is the capital of Iran?",
+        "options": {
+            "A": "Isfahan",
+            "B": "Shiraz",
+            "C": "Mashhad",
+            "D": "Tehran"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 80,
+        "question": "What is the capital of Iraq?",
+        "options": {
+            "A": "Mosul",
+            "B": "Baghdad",
+            "C": "Basra",
+            "D": "Erbil"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 81,
+        "question": "What is the capital of Ireland?",
+        "options": {
+            "A": "Dublin",
+            "B": "Cork",
+            "C": "Galway",
+            "D": "Limerick"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 82,
+        "question": "What is the capital of Israel?",
+        "options": {
+            "A": "Tel Aviv",
+            "B": "Haifa",
+            "C": "Jerusalem",
+            "D": "Eilat"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 83,
+        "question": "What is the capital of Italy?",
+        "options": {
+            "A": "Milan",
+            "B": "Naples",
+            "C": "Turin",
+            "D": "Rome"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 84,
+        "question": "What is the capital of Jamaica?",
+        "options": {
+            "A": "Kingston",
+            "B": "Montego Bay",
+            "C": "Spanish Town",
+            "D": "Mandeville"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 85,
+        "question": "What is the capital of Japan?",
+        "options": {
+            "A": "Osaka",
+            "B": "Tokyo",
+            "C": "Kyoto",
+            "D": "Nagoya"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 86,
+        "question": "What is the capital of Jordan?",
+        "options": {
+            "A": "Zarqa",
+            "B": "Irbid",
+            "C": "Amman",
+            "D": "Aqaba"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 87,
+        "question": "What is the capital of Kazakhstan?",
+        "options": {
+            "A": "Almaty",
+            "B": "Shymkent",
+            "C": "Karaganda",
+            "D": "Astana"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 88,
+        "question": "What is the capital of Kenya?",
+        "options": {
+            "A": "Nairobi",
+            "B": "Mombasa",
+            "C": "Kisumu",
+            "D": "Nakuru"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 89,
+        "question": "What is the capital of Kiribati?",
+        "options": {
+            "A": "Betio",
+            "B": "Bairiki",
+            "C": "South Tarawa",
+            "D": "Tabiteuea"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 90,
+        "question": "What is the capital of Kuwait?",
+        "options": {
+            "A": "Hawally",
+            "B": "Kuwait City",
+            "C": "Salmiya",
+            "D": "Jahra"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 91,
+        "question": "What is the capital of Kyrgyzstan?",
+        "options": {
+            "A": "Bishkek",
+            "B": "Osh",
+            "C": "Jalal-Abad",
+            "D": "Karakol"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 92,
+        "question": "What is the capital of Laos?",
+        "options": {
+            "A": "Luang Prabang",
+            "B": "Pakse",
+            "C": "Savannakhet",
+            "D": "Vientiane"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 93,
+        "question": "What is the capital of Latvia?",
+        "options": {
+            "A": "Daugavpils",
+            "B": "Riga",
+            "C": "Liepāja",
+            "D": "Jelgava"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 94,
+        "question": "What is the capital of Lebanon?",
+        "options": {
+            "A": "Beirut",
+            "B": "Tripoli",
+            "C": "Sidon",
+            "D": "Tyre"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 95,
+        "question": "What is the capital of Lesotho?",
+        "options": {
+            "A": "Maseru",
+            "B": "Mafeteng",
+            "C": "Butha-Buthe",
+            "D": "Hlotse"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 96,
+        "question": "What is the capital of Liberia?",
+        "options": {
+            "A": "Buchanan",
+            "B": "Gbarnga",
+            "C": "Monrovia",
+            "D": "Kakata"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 97,
+        "question": "What is the capital of Libya?",
+        "options": {
+            "A": "Benghazi",
+            "B": "Tripoli",
+            "C": "Misrata",
+            "D": "Sabha"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 98,
+        "question": "What is the capital of Liechtenstein?",
+        "options": {
+            "A": "Vaduz",
+            "B": "Schaan",
+            "C": "Balzers",
+            "D": "Triesen"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 99,
+        "question": "What is the capital of Lithuania?",
+        "options": {
+            "A": "Kaunas",
+            "B": "Klaipėda",
+            "C": "Šiauliai",
+            "D": "Vilnius"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 100,
+        "question": "What is the capital of Luxembourg?",
+        "options": {
+            "A": "Luxembourg",
+            "B": "Esch-sur-Alzette",
+            "C": "Differdange",
+            "D": "Dudelange"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 101,
+        "question": "What is the capital of Madagascar?",
+        "options": {
+            "A": "Toamasina",
+            "B": "Antsirabe",
+            "C": "Antananarivo",
+            "D": "Mahajanga"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 102,
+        "question": "What is the capital of Malawi?",
+        "options": {
+            "A": "Blantyre",
+            "B": "Lilongwe",
+            "C": "Mzuzu",
+            "D": "Zomba"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 103,
+        "question": "What is the capital of Malaysia?",
+        "options": {
+            "A": "Kuala Lumpur",
+            "B": "George Town",
+            "C": "Johor Bahru",
+            "D": "Malacca"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 104,
+        "question": "What is the capital of Maldives?",
+        "options": {
+            "A": "Addu City",
+            "B": "Fuvahmulah",
+            "C": "Malé",
+            "D": "Kulhudhuffushi"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 105,
+        "question": "What is the capital of Mali?",
+        "options": {
+            "A": "Sikasso",
+            "B": "Mopti",
+            "C": "Ségou",
+            "D": "Bamako"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 106,
+        "question": "What is the capital of Malta?",
+        "options": {
+            "A": "Valletta",
+            "B": "Birkirkara",
+            "C": "Mosta",
+            "D": "Mdina"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 107,
+        "question": "What is the capital of the Marshall Islands?",
+        "options": {
+            "A": "Ebeye",
+            "B": "Majuro",
+            "C": "Jaluit",
+            "D": "Wotje"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 108,
+        "question": "What is the capital of Mauritania?",
+        "options": {
+            "A": "Nouakchott",
+            "B": "Nouadhibou",
+            "C": "Atar",
+            "D": "Rosso"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 109,
+        "question": "What is the capital of Mauritius?",
+        "options": {
+            "A": "Curepipe",
+            "B": "Quatre Bornes",
+            "C": "Port Louis",
+            "D": "Vacoas-Phoenix"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 110,
+        "question": "What is the capital of Mexico?",
+        "options": {
+            "A": "Guadalajara",
+            "B": "Monterrey",
+            "C": "Cancún",
+            "D": "Mexico City"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 111,
+        "question": "What is the capital of Micronesia?",
+        "options": {
+            "A": "Palikir",
+            "B": "Kolonia",
+            "C": "Weno",
+            "D": "Colonia"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 112,
+        "question": "What is the capital of Moldova?",
+        "options": {
+            "A": "Bălți",
+            "B": "Chișinău",
+            "C": "Tiraspol",
+            "D": "Bender"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 113,
+        "question": "What is the capital of Monaco?",
+        "options": {
+            "A": "Monte Carlo",
+            "B": "La Condamine",
+            "C": "Monaco",
+            "D": "Fontvieille"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 114,
+        "question": "What is the capital of Mongolia?",
+        "options": {
+            "A": "Erdenet",
+            "B": "Darkhan",
+            "C": "Choibalsan",
+            "D": "Ulaanbaatar"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 115,
+        "question": "What is the capital of Montenegro?",
+        "options": {
+            "A": "Podgorica",
+            "B": "Budva",
+            "C": "Kotor",
+            "D": "Nikšić"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 116,
+        "question": "What is the capital of Morocco?",
+        "options": {
+            "A": "Casablanca",
+            "B": "Rabat",
+            "C": "Marrakesh",
+            "D": "Fes"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 117,
+        "question": "What is the capital of Mozambique?",
+        "options": {
+            "A": "Beira",
+            "B": "Nampula",
+            "C": "Maputo",
+            "D": "Matola"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 118,
+        "question": "What is the capital of Myanmar?",
+        "options": {
+            "A": "Yangon",
+            "B": "Mandalay",
+            "C": "Bago",
+            "D": "Naypyidaw"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 119,
+        "question": "What is the capital of Namibia?",
+        "options": {
+            "A": "Windhoek",
+            "B": "Swakopmund",
+            "C": "Walvis Bay",
+            "D": "Oshakati"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 120,
+        "question": "What is the capital of Nauru?",
+        "options": {
+            "A": "Aiwo",
+            "B": "Yaren",
+            "C": "Meneng",
+            "D": "Anabar"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 121,
+        "question": "What is the capital of Nepal?",
+        "options": {
+            "A": "Pokhara",
+            "B": "Lalitpur",
+            "C": "Kathmandu",
+            "D": "Biratnagar"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 122,
+        "question": "What is the capital of the Netherlands?",
+        "options": {
+            "A": "Amsterdam",
+            "B": "Rotterdam",
+            "C": "The Hague",
+            "D": "Utrecht"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 123,
+        "question": "What is the capital of New Zealand?",
+        "options": {
+            "A": "Auckland",
+            "B": "Christchurch",
+            "C": "Hamilton",
+            "D": "Wellington"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 124,
+        "question": "What is the capital of Nicaragua?",
+        "options": {
+            "A": "Managua",
+            "B": "León",
+            "C": "Granada",
+            "D": "Masaya"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 125,
+        "question": "What is the capital of Niger?",
+        "options": {
+            "A": "Zinder",
+            "B": "Niamey",
+            "C": "Maradi",
+            "D": "Agadez"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 126,
+        "question": "What is the capital of Nigeria?",
+        "options": {
+            "A": "Lagos",
+            "B": "Kano",
+            "C": "Abuja",
+            "D": "Ibadan"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 127,
+        "question": "What is the capital of North Korea?",
+        "options": {
+            "A": "Pyongyang",
+            "B": "Hamhung",
+            "C": "Chongjin",
+            "D": "Wonsan"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 128,
+        "question": "What is the capital of North Macedonia?",
+        "options": {
+            "A": "Bitola",
+            "B": "Ohrid",
+            "C": "Kumanovo",
+            "D": "Skopje"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 129,
+        "question": "What is the capital of Norway?",
+        "options": {
+            "A": "Bergen",
+            "B": "Oslo",
+            "C": "Trondheim",
+            "D": "Stavanger"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 130,
+        "question": "What is the capital of Oman?",
+        "options": {
+            "A": "Salalah",
+            "B": "Sohar",
+            "C": "Muscat",
+            "D": "Nizwa"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 131,
+        "question": "What is the capital of Pakistan?",
+        "options": {
+            "A": "Islamabad",
+            "B": "Karachi",
+            "C": "Lahore",
+            "D": "Peshawar"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 132,
+        "question": "What is the capital of Palau?",
+        "options": {
+            "A": "Koror",
+            "B": "Airai",
+            "C": "Melekeok",
+            "D": "Ngerulmud"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 133,
+        "question": "What is the capital of Palestine?",
+        "options": {
+            "A": "Gaza City",
+            "B": "Ramallah",
+            "C": "Hebron",
+            "D": "Nablus"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 134,
+        "question": "What is the capital of Panama?",
+        "options": {
+            "A": "Colón",
+            "B": "David",
+            "C": "Panama City",
+            "D": "Santiago"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 135,
+        "question": "What is the capital of Papua New Guinea?",
+        "options": {
+            "A": "Port Moresby",
+            "B": "Lae",
+            "C": "Madang",
+            "D": "Mount Hagen"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 136,
+        "question": "What is the capital of Paraguay?",
+        "options": {
+            "A": "Ciudad del Este",
+            "B": "Encarnación",
+            "C": "Luque",
+            "D": "Asunción"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 137,
+        "question": "What is the capital of Peru?",
+        "options": {
+            "A": "Cusco",
+            "B": "Lima",
+            "C": "Arequipa",
+            "D": "Trujillo"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 138,
+        "question": "What is the capital of the Philippines?",
+        "options": {
+            "A": "Manila",
+            "B": "Quezon City",
+            "C": "Cebu City",
+            "D": "Davao City"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 139,
+        "question": "What is the capital of Poland?",
+        "options": {
+            "A": "Kraków",
+            "B": "Gdańsk",
+            "C": "Warsaw",
+            "D": "Wrocław"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 140,
+        "question": "What is the capital of Portugal?",
+        "options": {
+            "A": "Porto",
+            "B": "Braga",
+            "C": "Coimbra",
+            "D": "Lisbon"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 141,
+        "question": "What is the capital of Qatar?",
+        "options": {
+            "A": "Doha",
+            "B": "Al Rayyan",
+            "C": "Al Wakrah",
+            "D": "Lusail"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 142,
+        "question": "What is the capital of Romania?",
+        "options": {
+            "A": "Cluj-Napoca",
+            "B": "Bucharest",
+            "C": "Timișoara",
+            "D": "Iași"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 143,
+        "question": "What is the capital of Russia?",
+        "options": {
+            "A": "Saint Petersburg",
+            "B": "Novosibirsk",
+            "C": "Moscow",
+            "D": "Kazan"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 144,
+        "question": "What is the capital of Rwanda?",
+        "options": {
+            "A": "Kigali",
+            "B": "Butare",
+            "C": "Gisenyi",
+            "D": "Ruhengeri"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 145,
+        "question": "What is the capital of Saint Kitts and Nevis?",
+        "options": {
+            "A": "Charlestown",
+            "B": "Basseterre",
+            "C": "Sandy Point Town",
+            "D": "Dieppe Bay Town"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 146,
+        "question": "What is the capital of Saint Lucia?",
+        "options": {
+            "A": "Castries",
+            "B": "Vieux Fort",
+            "C": "Soufrière",
+            "D": "Gros Islet"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 147,
+        "question": "What is the capital of Saint Vincent and the Grenadines?",
+        "options": {
+            "A": "Georgetown",
+            "B": "Barrouallie",
+            "C": "Kingstown",
+            "D": "Chateaubelair"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 148,
+        "question": "What is the capital of Samoa?",
+        "options": {
+            "A": "Apia",
+            "B": "Salelologa",
+            "C": "Vaitele",
+            "D": "Faleula"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 149,
+        "question": "What is the capital of San Marino?",
+        "options": {
+            "A": "Borgo Maggiore",
+            "B": "Serravalle",
+            "C": "Domagnano",
+            "D": "San Marino"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 150,
+        "question": "What is the capital of São Tomé and Príncipe?",
+        "options": {
+            "A": "São Tomé",
+            "B": "Santo António",
+            "C": "Neves",
+            "D": "Trindade"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 151,
+        "question": "What is the capital of Saudi Arabia?",
+        "options": {
+            "A": "Jeddah",
+            "B": "Riyadh",
+            "C": "Mecca",
+            "D": "Medina"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 152,
+        "question": "What is the capital of Senegal?",
+        "options": {
+            "A": "Dakar",
+            "B": "Touba",
+            "C": "Thiès",
+            "D": "Saint-Louis"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 153,
+        "question": "What is the capital of Serbia?",
+        "options": {
+            "A": "Novi Sad",
+            "B": "Niš",
+            "C": "Belgrade",
+            "D": "Kragujevac"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 154,
+        "question": "What is the capital of Seychelles?",
+        "options": {
+            "A": "Victoria",
+            "B": "Beau Vallon",
+            "C": "Anse Boileau",
+            "D": "Anse Royale"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 155,
+        "question": "What is the capital of Sierra Leone?",
+        "options": {
+            "A": "Bo",
+            "B": "Kenema",
+            "C": "Makeni",
+            "D": "Freetown"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 156,
+        "question": "What is the capital of Singapore?",
+        "options": {
+            "A": "Singapore",
+            "B": "Jurong",
+            "C": "Woodlands",
+            "D": "Tampines"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 157,
+        "question": "What is the capital of Slovakia?",
+        "options": {
+            "A": "Košice",
+            "B": "Bratislava",
+            "C": "Prešov",
+            "D": "Žilina"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 158,
+        "question": "What is the capital of Slovenia?",
+        "options": {
+            "A": "Maribor",
+            "B": "Koper",
+            "C": "Ljubljana",
+            "D": "Celje"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 159,
+        "question": "What is the capital of Solomon Islands?",
+        "options": {
+            "A": "Honiara",
+            "B": "Gizo",
+            "C": "Auki",
+            "D": "Tulagi"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 160,
+        "question": "What is the capital of Somalia?",
+        "options": {
+            "A": "Hargeisa",
+            "B": "Mogadishu",
+            "C": "Kismayo",
+            "D": "Bosaso"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 161,
+        "question": "What is the capital of South Africa?",
+        "options": {
+            "A": "Cape Town",
+            "B": "Bloemfontein",
+            "C": "Johannesburg",
+            "D": "Pretoria"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 162,
+        "question": "What is the capital of South Korea?",
+        "options": {
+            "A": "Seoul",
+            "B": "Busan",
+            "C": "Incheon",
+            "D": "Daegu"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 163,
+        "question": "What is the capital of South Sudan?",
+        "options": {
+            "A": "Wau",
+            "B": "Juba",
+            "C": "Malakal",
+            "D": "Bor"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 164,
+        "question": "What is the capital of Spain?",
+        "options": {
+            "A": "Barcelona",
+            "B": "Seville",
+            "C": "Madrid",
+            "D": "Valencia"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 165,
+        "question": "What is the capital of Sri Lanka?",
+        "options": {
+            "A": "Colombo",
+            "B": "Kandy",
+            "C": "Galle",
+            "D": "Sri Jayawardenepura Kotte"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 166,
+        "question": "What is the capital of Sudan?",
+        "options": {
+            "A": "Khartoum",
+            "B": "Omdurman",
+            "C": "Port Sudan",
+            "D": "Nyala"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 167,
+        "question": "What is the capital of Suriname?",
+        "options": {
+            "A": "Lelydorp",
+            "B": "Nieuw Nickerie",
+            "C": "Paramaribo",
+            "D": "Albina"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 168,
+        "question": "What is the capital of Sweden?",
+        "options": {
+            "A": "Gothenburg",
+            "B": "Stockholm",
+            "C": "Malmö",
+            "D": "Uppsala"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 169,
+        "question": "What is the capital of Switzerland?",
+        "options": {
+            "A": "Bern",
+            "B": "Zurich",
+            "C": "Geneva",
+            "D": "Basel"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 170,
+        "question": "What is the capital of Syria?",
+        "options": {
+            "A": "Aleppo",
+            "B": "Homs",
+            "C": "Latakia",
+            "D": "Damascus"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 171,
+        "question": "What is the capital of Tajikistan?",
+        "options": {
+            "A": "Khujand",
+            "B": "Dushanbe",
+            "C": "Kulob",
+            "D": "Qurghonteppa"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 172,
+        "question": "What is the capital of Tanzania?",
+        "options": {
+            "A": "Dar es Salaam",
+            "B": "Arusha",
+            "C": "Dodoma",
+            "D": "Mwanza"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 173,
+        "question": "What is the capital of Thailand?",
+        "options": {
+            "A": "Bangkok",
+            "B": "Chiang Mai",
+            "C": "Phuket",
+            "D": "Pattaya"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 174,
+        "question": "What is the capital of Timor-Leste?",
+        "options": {
+            "A": "Baucau",
+            "B": "Maliana",
+            "C": "Dili",
+            "D": "Suai"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 175,
+        "question": "What is the capital of Togo?",
+        "options": {
+            "A": "Sokodé",
+            "B": "Kara",
+            "C": "Atakpamé",
+            "D": "Lomé"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 176,
+        "question": "What is the capital of Tonga?",
+        "options": {
+            "A": "Nuku'alofa",
+            "B": "Neiafu",
+            "C": "Haveluloto",
+            "D": "Pangai"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 177,
+        "question": "What is the capital of Trinidad and Tobago?",
+        "options": {
+            "A": "San Fernando",
+            "B": "Port of Spain",
+            "C": "Chaguanas",
+            "D": "Arima"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 178,
+        "question": "What is the capital of Tunisia?",
+        "options": {
+            "A": "Sfax",
+            "B": "Sousse",
+            "C": "Tunis",
+            "D": "Bizerte"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 179,
+        "question": "What is the capital of Türkiye?",
+        "options": {
+            "A": "Istanbul",
+            "B": "Ankara",
+            "C": "Izmir",
+            "D": "Bursa"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 180,
+        "question": "What is the capital of Turkmenistan?",
+        "options": {
+            "A": "Ashgabat",
+            "B": "Turkmenabat",
+            "C": "Mary",
+            "D": "Dashoguz"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 181,
+        "question": "What is the capital of Tuvalu?",
+        "options": {
+            "A": "Funafuti",
+            "B": "Vaiaku",
+            "C": "Nanumea",
+            "D": "Nui"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 182,
+        "question": "What is the capital of Uganda?",
+        "options": {
+            "A": "Entebbe",
+            "B": "Jinja",
+            "C": "Kampala",
+            "D": "Mbarara"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 183,
+        "question": "What is the capital of Ukraine?",
+        "options": {
+            "A": "Kyiv",
+            "B": "Lviv",
+            "C": "Odesa",
+            "D": "Kharkiv"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 184,
+        "question": "What is the capital of the United Arab Emirates?",
+        "options": {
+            "A": "Dubai",
+            "B": "Sharjah",
+            "C": "Abu Dhabi",
+            "D": "Ajman"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 185,
+        "question": "What is the capital of the United Kingdom?",
+        "options": {
+            "A": "London",
+            "B": "Manchester",
+            "C": "Birmingham",
+            "D": "Liverpool"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 186,
+        "question": "What is the capital of the United States?",
+        "options": {
+            "A": "New York City",
+            "B": "Washington, D.C.",
+            "C": "Los Angeles",
+            "D": "Chicago"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 187,
+        "question": "What is the capital of Uruguay?",
+        "options": {
+            "A": "Salto",
+            "B": "Punta del Este",
+            "C": "Paysandú",
+            "D": "Montevideo"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 188,
+        "question": "What is the capital of Uzbekistan?",
+        "options": {
+            "A": "Samarkand",
+            "B": "Bukhara",
+            "C": "Tashkent",
+            "D": "Namangan"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 189,
+        "question": "What is the capital of Vanuatu?",
+        "options": {
+            "A": "Port Vila",
+            "B": "Luganville",
+            "C": "Port Olry",
+            "D": "Isangel"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 190,
+        "question": "What is the capital of Vatican City?",
+        "options": {
+            "A": "Rome",
+            "B": "Vatican City",
+            "C": "Castel Gandolfo",
+            "D": "Florence"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 191,
+        "question": "What is the capital of Venezuela?",
+        "options": {
+            "A": "Maracaibo",
+            "B": "Valencia",
+            "C": "Caracas",
+            "D": "Barquisimeto"
+        },
+        "answer": 2,
+        "type": "capitals"
+    },
+    {
+        "Q": 192,
+        "question": "What is the capital of Vietnam?",
+        "options": {
+            "A": "Hanoi",
+            "B": "Ho Chi Minh City",
+            "C": "Da Nang",
+            "D": "Hue"
+        },
+        "answer": 0,
+        "type": "capitals"
+    },
+    {
+        "Q": 193,
+        "question": "What is the capital of Yemen?",
+        "options": {
+            "A": "Aden",
+            "B": "Taiz",
+            "C": "Hodeidah",
+            "D": "Sana'a"
+        },
+        "answer": 3,
+        "type": "capitals"
+    },
+    {
+        "Q": 194,
+        "question": "What is the capital of Zambia?",
+        "options": {
+            "A": "Kitwe",
+            "B": "Lusaka",
+            "C": "Ndola",
+            "D": "Livingstone"
+        },
+        "answer": 1,
+        "type": "capitals"
+    },
+    {
+        "Q": 195,
+        "question": "What is the capital of Zimbabwe?",
+        "options": {
+            "A": "Bulawayo",
+            "B": "Mutare",
+            "C": "Harare",
+            "D": "Gweru"
+        },
+        "answer": 2,
+        "type": "capitals"
     }
 ]
